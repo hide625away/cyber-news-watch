@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#111827">
+<title>サイバー速報ウォッチ</title>
+<style>
+:root{color-scheme:dark;--bg:#090d14;--panel:#151c28;--line:#2b3545;--muted:#aab5c5;--accent:#80b7ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#eef3fb;font:16px/1.5 system-ui,-apple-system,"Noto Sans JP",sans-serif}
+header{padding:22px 16px 16px;background:#101722;border-bottom:1px solid var(--line)}
+h1{font-size:1.45rem;margin:0 0 6px} .sub{color:var(--muted);font-size:.9rem}
+main{max-width:900px;margin:auto;padding:14px}
+.controls{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+input,select,button{font:inherit;border-radius:10px;border:1px solid var(--line);padding:10px 12px;background:#111827;color:#eef3fb}
+input{flex:1;min-width:180px}button{cursor:pointer;background:#1d3554;border-color:#35557b}
+#status{color:var(--muted);font-size:.88rem;margin:10px 2px}
+.item{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;margin:10px 0}
+.item a{color:#d8e8ff;text-decoration:none;font-weight:650}.item a:hover{text-decoration:underline}
+.meta{font-size:.8rem;color:var(--muted);margin-top:7px;display:flex;gap:10px;flex-wrap:wrap}
+.tag{font-size:.75rem;border:1px solid #40536b;border-radius:20px;padding:2px 8px;color:#c4d9f7}
+.notice{font-size:.84rem;color:var(--muted);padding:12px;border:1px solid var(--line);border-radius:10px;margin-top:16px}
+footer{max-width:900px;margin:auto;padding:0 14px 28px;color:var(--muted);font-size:.8rem}
+</style>
+</head>
+<body>
+<header>
+  <h1>🛡️ サイバー速報ウォッチ</h1>
+  <div class="sub">不正アクセス・情報漏洩・サイバー攻撃のニュースをまとめて確認</div>
+</header>
+<main>
+  <div class="controls">
+    <input id="search" type="search" placeholder="キーワードで絞り込み（例：自治体、漏洩）" aria-label="キーワード検索">
+    <select id="range" aria-label="表示期間">
+      <option value="1">過去24時間</option><option value="3">過去3日</option><option value="7" selected>過去7日</option><option value="30">過去30日</option><option value="all">期間指定なし</option>
+    </select>
+    <button id="refresh">更新</button>
+  </div>
+  <div id="status">ニュースを取得しています…</div>
+  <div id="items"></div>
+  <div class="notice">取得元：Google ニュースの検索RSS（複数の報道機関の記事を横断）。記事の内容・重要度は各配信元で確認してください。速報の網羅性や掲載時刻は保証されません。</div>
+</main>
+<footer>このページは個人用の試作品です。RSS取得に外部の変換サービスを利用します。通信環境やサービス制限により取得できない場合があります。</footer>
+<script>
+const terms = [
+  '"不正アクセス"',
+  '"情報漏洩" OR "情報流出"',
+  '"サイバー攻撃" OR ランサムウェア',
+  '"個人情報 漏えい"'
+];
+const itemsEl=document.getElementById('items'), statusEl=document.getElementById('status');
+let allItems=[];
+const googleRss=q=>'https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=ja&gl=JP&ceid=JP:ja';
+// rss2json provides a browser-friendly JSON wrapper for RSS. No account credentials are embedded.
+async function fetchFeed(q){
+  const rss=googleRss(q);
+  const url='https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(rss);
+  const r=await fetch(url);
+  if(!r.ok) throw new Error('HTTP '+r.status);
+  const j=await r.json();
+  if(j.status!=='ok') throw new Error(j.message||'RSS取得エラー');
+  return (j.items||[]).map(x=>({
+    title:x.title||'(タイトルなし)', link:x.link||'#', date:x.pubDate||'',
+    source:(x.author||x.feed?.title||'Google ニュース'), description:(x.description||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim()
+  }));
+}
+function render(){
+  const q=document.getElementById('search').value.trim().toLowerCase();
+  const range=document.getElementById('range').value;
+  const cutoff=range==='all'?0:Date.now()-Number(range)*86400000;
+  const filtered=allItems.filter(x=>{
+    const d=Date.parse(x.date)||0;
+    return (!q||(x.title+' '+x.source+' '+x.description).toLowerCase().includes(q))&&(!cutoff||!d||d>=cutoff);
+  }).sort((a,b)=>(Date.parse(b.date)||0)-(Date.parse(a.date)||0));
+  itemsEl.replaceChildren();
+  if(!filtered.length){itemsEl.innerHTML='<div class="item">該当するニュースがありません。検索語や表示期間を変えてください。</div>';return;}
+  for(const x of filtered){
+    const article=document.createElement('article');article.className='item';
+    const a=document.createElement('a');a.href=x.link;a.target='_blank';a.rel='noopener noreferrer';a.textContent=x.title;
+    const meta=document.createElement('div');meta.className='meta';
+    const src=document.createElement('span');src.className='tag';src.textContent=x.source||'ニュース';
+    const date=document.createElement('span');date.textContent=x.date?new Date(x.date).toLocaleString('ja-JP'):'日時不明';
+    meta.append(src,date);article.append(a,meta);
+    if(x.description){const p=document.createElement('p');p.textContent=x.description.slice(0,240);article.append(p);}
+    itemsEl.append(article);
+  }
+}
+async function load(){
+  statusEl.textContent='取得中…（複数の検索RSSを確認しています）';
+  document.getElementById('refresh').disabled=true;
+  try{
+    const results=await Promise.allSettled(terms.map(fetchFeed));
+    const good=results.filter(x=>x.status==='fulfilled').flatMap(x=>x.value);
+    const bad=results.length-results.filter(x=>x.status==='fulfilled').length;
+    const seen=new Set();allItems=good.filter(x=>{const k=x.link||x.title;if(seen.has(k))return false;seen.add(k);return true;});
+    statusEl.textContent=`${allItems.length}件を取得${bad?`（${bad}系統は取得できませんでした）`:''}。更新：${new Date().toLocaleTimeString('ja-JP')}`;
+    if(!allItems.length) statusEl.textContent='ニュースを取得できませんでした。通信環境を確認し、もう一度「更新」を押してください。';
+    render();
+  }catch(e){statusEl.textContent='取得に失敗しました。通信環境またはRSS変換サービスの状態を確認してください。';}
+  finally{document.getElementById('refresh').disabled=false;}
+}
+document.getElementById('refresh').addEventListener('click',load);
+document.getElementById('search').addEventListener('input',render);
+document.getElementById('range').addEventListener('change',render);
+load();
+</script>
+</body>
+</html>
