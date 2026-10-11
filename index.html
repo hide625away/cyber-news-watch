@@ -42,99 +42,75 @@ footer{max-width:900px;margin:auto;padding:0 14px 28px;color:var(--muted);font-s
 </main>
 <footer>このページは個人用の試作品です。RSS取得に外部の変換サービスを利用します。通信環境やサービス制限により取得できない場合があります。</footer>
 <script>
-const terms = [
-  '"不正アクセス"',
-  '"情報漏洩" OR "情報流出"',
-  '"サイバー攻撃" OR ランサムウェア',
-  '"個人情報 漏えい"'
-];
-const itemsEl=document.getElementById('items'), statusEl=document.getElementById('status');
-let allItems=[];
-const googleRss=q=>'https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=ja&gl=JP&ceid=JP:ja';
-// rss2json provides a browser-friendly JSON wrapper for RSS. No account credentials are embedded.
-async function fetchFeed(q) {
-  const rss = googleRss(q);
-  const url =
-    'https://api.allorigins.win/raw?url=' +
-    encodeURIComponent(rss);
+const itemsEl = document.getElementById("items");
+const statusEl = document.getElementById("status");
+let allItems = [];
 
-  const response = await fetch(url);
+function render() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const range = document.getElementById("range").value;
+  const cutoff = range === "all" ? 0 : Date.now() - Number(range) * 86400000;
+  const filtered = allItems.filter(x => {
+    const d = Date.parse(x.date) || 0;
+    return (!q || (x.title + " " + x.source + " " + x.description).toLowerCase().includes(q)) && (!cutoff || !d || d >= cutoff);
+  }).sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
-  if (!response.ok) {
-    throw new Error('RSS取得エラー: HTTP ' + response.status);
-  }
-
-  const xmlText = await response.text();
-  const xml = new DOMParser().parseFromString(
-    xmlText,
-    'application/xml'
-  );
-
-  if (xml.querySelector('parsererror')) {
-    throw new Error('RSSのXML解析に失敗しました');
-  }
-
-  const channelTitle =
-    xml.querySelector('channel > title')?.textContent?.trim();
-
-  return Array.from(xml.querySelectorAll('channel > item'))
-    .map(item => {
-      const getText = selector =>
-        item.querySelector(selector)?.textContent?.trim() || '';
-
-      return {
-        title: getText('title') || '(タイトルなし)',
-        link: getText('link') || '#',
-        date: getText('pubDate'),
-        source:
-          item.querySelector('source')?.textContent?.trim() ||
-          channelTitle ||
-          'Google ニュース',
-        description: getText('description')
-          .replace(/<[^>]*>/g, ' ')
-          .replace(/\s+/g, ' ')
-          .trim()
-      };
-    });
-  }
-function render(){
-  const q=document.getElementById('search').value.trim().toLowerCase();
-  const range=document.getElementById('range').value;
-  const cutoff=range==='all'?0:Date.now()-Number(range)*86400000;
-  const filtered=allItems.filter(x=>{
-    const d=Date.parse(x.date)||0;
-    return (!q||(x.title+' '+x.source+' '+x.description).toLowerCase().includes(q))&&(!cutoff||!d||d>=cutoff);
-  }).sort((a,b)=>(Date.parse(b.date)||0)-(Date.parse(a.date)||0));
   itemsEl.replaceChildren();
-  if(!filtered.length){itemsEl.innerHTML='<div class="item">該当するニュースがありません。検索語や表示期間を変えてください。</div>';return;}
-  for(const x of filtered){
-    const article=document.createElement('article');article.className='item';
-    const a=document.createElement('a');a.href=x.link;a.target='_blank';a.rel='noopener noreferrer';a.textContent=x.title;
-    const meta=document.createElement('div');meta.className='meta';
-    const src=document.createElement('span');src.className='tag';src.textContent=x.source||'ニュース';
-    const date=document.createElement('span');date.textContent=x.date?new Date(x.date).toLocaleString('ja-JP'):'日時不明';
-    meta.append(src,date);article.append(a,meta);
-    if(x.description){const p=document.createElement('p');p.textContent=x.description.slice(0,240);article.append(p);}
+  if (!filtered.length) {
+    itemsEl.innerHTML = '<div class="item">該当するニュースがありません。表示期間や検索語を変えてください。</div>';
+    return;
+  }
+  for (const x of filtered) {
+    const article = document.createElement("article");
+    article.className = "item";
+    const a = document.createElement("a");
+    a.href = x.link || "#";
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = x.title || "(タイトルなし)";
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    const src = document.createElement("span");
+    src.className = "tag";
+    src.textContent = x.source || "Google ニュース";
+    const date = document.createElement("span");
+    date.textContent = x.date ? new Date(x.date).toLocaleString("ja-JP") : "日時不明";
+    meta.append(src, date);
+    article.append(a, meta);
+    if (x.description) {
+      const p = document.createElement("p");
+      p.textContent = x.description.slice(0, 240);
+      article.append(p);
+    }
     itemsEl.append(article);
   }
 }
-async function load(){
-  statusEl.textContent='取得中…（複数の検索RSSを確認しています）';
-  document.getElementById('refresh').disabled=true;
-  try{
-    const results=await Promise.allSettled(terms.map(fetchFeed));
-    const good=results.filter(x=>x.status==='fulfilled').flatMap(x=>x.value);
-    const bad=results.length-results.filter(x=>x.status==='fulfilled').length;
-    const seen=new Set();allItems=good.filter(x=>{const k=x.link||x.title;if(seen.has(k))return false;seen.add(k);return true;});
-    statusEl.textContent=`${allItems.length}件を取得${bad?`（${bad}系統は取得できませんでした）`:''}。更新：${new Date().toLocaleTimeString('ja-JP')}`;
-    if(!allItems.length) statusEl.textContent='ニュースを取得できませんでした。通信環境を確認し、もう一度「更新」を押してください。';
+
+async function load() {
+  const button = document.getElementById("refresh");
+  button.disabled = true;
+  statusEl.textContent = "保存されたニュースを読み込んでいます…";
+  try {
+    const response = await fetch("./news.json?t=" + Date.now(), { cache: "no-store" });
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    const data = await response.json();
+    allItems = Array.isArray(data.items) ? data.items : [];
+    statusEl.textContent = allItems.length + "件のニュースを読み込みました" +
+      (data.updated_at ? "。データ更新：" + new Date(data.updated_at).toLocaleString("ja-JP") : "");
     render();
-  }catch(e){statusEl.textContent='取得に失敗しました。通信環境またはRSS変換サービスの状態を確認してください。';}
-  finally{document.getElementById('refresh').disabled=false;}
+    if (!allItems.length) statusEl.textContent = "ニュースデータはまだありません。GitHub Actionsで取得処理を実行してください。";
+  } catch (error) {
+    allItems = [];
+    itemsEl.replaceChildren();
+    statusEl.textContent = "ニュースデータを読み込めません。GitHub Actionsの実行が完了しているか確認してください。";
+  } finally {
+    button.disabled = false;
+  }
 }
-document.getElementById('refresh').addEventListener('click',load);
-document.getElementById('search').addEventListener('input',render);
-document.getElementById('range').addEventListener('change',render);
+
+document.getElementById("refresh").addEventListener("click", load);
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("range").addEventListener("change", render);
 load();
 </script>
 </body>
