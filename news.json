@@ -1,12 +1,96 @@
 {
-  "updated_at": "2026-10-15T06:12:33.338918+00:00",
+  "updated_at": "2026-10-15T06:57:38.893763+00:00",
   "items": [
+    {
+      "title": "「Firefox 158」を公開、脆弱性77件を修正 - 延長サポート版も更新",
+      "link": "https://www.security-next.com/191432",
+      "date": "Thu, 15 Oct 2026 06:58:19 +0000",
+      "source": "Security NEXT",
+      "description": "Mozilla Foundationは現地時間2026年10月13日、ウェブブラウザの最新版「Firefox 158」をリリースした。あわせて延長サポート版のセキュリティアップデートを提供している。"
+    },
+    {
+      "title": "個人情報の漏えいが相次ぐ中、社員のAIの使い方を「実技」で測る『AI実技測定』を提供開始 免許証画像の扱いや偽リンクへの対応を、日々の業務の場面で記録 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EYUoyRnNZQTU0OHBSZVhwZU05dVh4UWVQNC1nMTFMLVlMQzNhTWx1YUhkMDZWNm9NMmFkOGpTZDltaHZkUWZRcVc1VE5qdjlnZHdMZGt4QzJjd1RZb2dXU0ozVmtKRGJBRHc?oc=5",
+      "date": "Thu, 15 Oct 2026 06:50:01 GMT",
+      "source": "PR TIMES",
+      "description": "個人情報の漏えいが相次ぐ中、社員のAIの使い方を「実技」で測る『AI実技測定』を提供開始 免許証画像の扱いや偽リンクへの対応を、日々の業務の場面で記録 PR TIMES"
+    },
+    {
+      "title": "Jリーグ「サステナカップ」開催中断を発表 現在開催中も…安全性最優先 不正アクセス受け（スポニチアネックス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMc21WWVZoN0dZMmR3NnZzREkwV2taY2ZrNVFjV2t3cE92Vl9MM2F0SkZ4ZWc0cEZKSmVzcUFPbWNFMUZSZC1xWkdxZnBqYkpiN1dvR0hONURUTHBJZXdFa2ZyRmJPNU9ENTBhR2E0RVJPNUw1QnJVNGtJc3FYYm8?oc=5",
+      "date": "Thu, 15 Oct 2026 06:46:03 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "Jリーグ「サステナカップ」開催中断を発表 現在開催中も…安全性最優先 不正アクセス受け（スポニチアネックス） Yahoo!ニュース"
+    },
+    {
+      "title": "サイバー攻撃に関する注意喚起とセキュリティ対策のお願い - 株式会社アイネット",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRGY2SGNCbVRwMG00djNmY1pLd3ZKRjVyS1VpYVpDdlZ4cU9hLWc4NjBWMWhaYy0yOTFZSDJKc3FPQTBESS02OU0xTTNxVnF1emxzMV9vUkkyUQ?oc=5",
+      "date": "Thu, 15 Oct 2026 06:36:05 GMT",
+      "source": "株式会社アイネット",
+      "description": "サイバー攻撃に関する注意喚起とセキュリティ対策のお願い 株式会社アイネット"
+    },
+    {
+      "title": "ハルメクホールディングス[7119]：当社HALMEK upサイトへの不正アクセスに関する調査結果のご報告（最終報） 2026年10月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmFKUXYxeFF6U1hnSXpjdUxhSXVUZUxzcERTWER3UWZDR29ORDF3dG10VE44MG1wcHR6bENtRVNhNEdQM2xZYWtfQ1BxQ1pDblNOX01GeGJ1dFJDaGw2RWl5LXpPanBQT3phajgxVUxsdnpweTdHcWdYTnBIM0Z4SThWV3ZmNmdWVlRIcnoxM3BVYVBBS0FOQUVack9qbjlubXhFbHU0Nkd4TUtlX3VMcXlhS0g3UFIzSDVZUUQ2YjlnNlhfNGlsc2NrRWo?oc=5",
+      "date": "Thu, 15 Oct 2026 06:30:00 GMT",
+      "source": "日本経済新聞",
+      "description": "ハルメクホールディングス[7119]：当社HALMEK upサイトへの不正アクセスに関する調査結果のご報告（最終報） 2026年10月15日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+    },
+    {
+      "title": "相次ぐ情報漏洩を受けて、連結子会社ショーケースの本人確認サービス ProTech ID Checkerの累計導入社数500社突破に関するお知らせ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WcGtVT0JJWW1kWXNvVHc1ZXl5MnhYbEdlVnVxOXBaZGI5eUJGX3QyYjV6OS1fRXFOWEFsUDhYTmVuTmRDNEJvOUpoTjA1dTBxd1VOeVVxbGlncUZoSmYwVnlGc2xYTmhjOEE?oc=5",
+      "date": "Thu, 15 Oct 2026 06:29:12 GMT",
+      "source": "PR TIMES",
+      "description": "相次ぐ情報漏洩を受けて、連結子会社ショーケースの本人確認サービス ProTech ID Checkerの累計導入社数500社突破に関するお知らせ PR TIMES"
+    },
+    {
+      "title": "「Zoom Workplace」などに脆弱性4件 - 最新版へ更新を",
+      "link": "https://www.security-next.com/191430",
+      "date": "Thu, 15 Oct 2026 06:24:43 +0000",
+      "source": "Security NEXT",
+      "description": "ビデオ会議サービスを展開するZoomは、「Zoom Workplace」や「Zoom Rooms」などに複数の脆弱性が確認されたことを明らかにした。最新版へ更新するよう求めている。"
+    },
+    {
+      "title": "個人情報漏えいの可能性、浜松市消防局でも 不正アクセス受けた「アルカディア」に問い合わせて判明 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN05vWmFXUWNDXzVZRmd1VHNGczI5M01HVG1QU2o1LWFUODBlVTZRWVZBWTVCQkpiTENsTFRVZGhsZ2JaT1lKdUI2SnRmLXIwWW85eTBhRG9NUQ?oc=5",
+      "date": "Thu, 15 Oct 2026 06:22:00 GMT",
+      "source": "TBS NEWS DIG",
+      "description": "個人情報漏えいの可能性、浜松市消防局でも 不正アクセス受けた「アルカディア」に問い合わせて判明 TBS NEWS DIG"
+    },
+    {
+      "title": "個人情報漏えいの可能性、浜松市消防局でも 不正アクセス受けた「アルカディア」に問い合わせて判明 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OZDllZk9KOC1Wd252bjE2d19nWWVoT2VkR2lYMEl5NnJkOG9QRW5hUzFlYUtZamREWXRqUGI4ZUFvWld2SndrUk9GQzA1QXc2S19hYll6OFdTREJZTkNFUDJLSTRLa1Z6TlBJQzBDTdIBdEFVX3lxTFBOaTdpdnRtTUEta0ZJZm5rQmx6ZWhjX252THFkOWNDYjh3dkVVdWswZlFGcUt0eGtzMEdxTFc0bkRIa3lnYXdxVWNIcTVvNjNiVDdWU0NJZ2tjY3V0d2lQYkp6VFlnWHpjQ0RzeGJFZ21HRXJ2?oc=5",
+      "date": "Thu, 15 Oct 2026 06:22:00 GMT",
+      "source": "ｄメニューニュース",
+      "description": "個人情報漏えいの可能性、浜松市消防局でも 不正アクセス受けた「アルカディア」に問い合わせて判明 ｄメニューニュース"
+    },
+    {
+      "title": "津など三重県3市、個人情報4万6000件流出か 業者に不正アクセス（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMlZ2Y282MTJBZDY5WjZNZjBKUEZEUU9OTFAwamc5aWRfU3BBbnVIMFF4S0kyTWVEZklvVGV3S0lEQTBwLXp2VU1tQVl0Q3pZUFF1NnhTYzJjRk5jY05MRlBRTzE4enVYSjg0OEl0bVpjMjB2bDR0UW5iX3VhdEU?oc=5",
+      "date": "Thu, 15 Oct 2026 06:13:09 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "津など三重県3市、個人情報4万6000件流出か 業者に不正アクセス（読売新聞オンライン） Yahoo!ニュース"
+    },
     {
       "title": "JR東日本、えきねっと会員などの個人情報漏えいなし - TRAICY（トライシー）",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nT2MzYVdjc0VRT3RfdHVJSlNOb2VjZm8wOVQzVkF4bHVtUnMwd0NRWWZkZnRPcjdnZW1Rdmh4MTdvYnJYSmV1anpkeDBoRnZoR3UzQ0VITQ?oc=5",
       "date": "Thu, 15 Oct 2026 06:10:09 GMT",
       "source": "TRAICY（トライシー）",
       "description": "JR東日本、えきねっと会員などの個人情報漏えいなし TRAICY（トライシー）"
+    },
+    {
+      "title": "アルカディア不正アクセスで青森県内消防本部にも影響 八戸や下北などでNET119の個人情報漏えいか（青森放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45d0pUZDM0dF9PaXJsR0pvMmE3cS04WEpJU1ZJcVo4ZmdqLU9NQkg4b21NUHloalA5UjVJSG5TMUVvaWJvSGU5Q3o1MFNyWG10MFdiNmlmUXZVUi1ad2t5SGFycTdKbUlidHRvdEFaLW5IX1dxTWpaWkgwQjFQMDQ?oc=5",
+      "date": "Thu, 15 Oct 2026 06:10:01 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "アルカディア不正アクセスで青森県内消防本部にも影響 八戸や下北などでNET119の個人情報漏えいか（青森放送） Yahoo!ニュース"
+    },
+    {
+      "title": "不正アクセスで広島県警5700人の個人情報も漏えいか 名前や私用メールアドレス 「アルカディア」に安否確認システム委託 - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GdHZTVUxnakhGVTVnWkZTSHlzWUUyTGh5dVd6SlFTMk4yTHNydXRFNHBnZFFDWDRHTXo1OVFlVUZ0bnlGZ1BPSk5ZUHU1Zw?oc=5",
+      "date": "Thu, 15 Oct 2026 06:09:00 GMT",
+      "source": "FNNプライムオンライン",
+      "description": "不正アクセスで広島県警5700人の個人情報も漏えいか 名前や私用メールアドレス 「アルカディア」に安否確認システム委託 FNNプライムオンライン"
     },
     {
       "title": "産婦人科向けシステムに不正アクセス 患者情報漏えいのおそれ - NHKニュース",
@@ -23,11 +107,18 @@
       "description": "AI・デジタル社会推進本部始動AIを用いたサイバー攻撃対策を議論 | お知らせ | ニュース 自由民主党"
     },
     {
-      "title": "岡山県警の警察官や職員ほぼ全員約4000人分の個人情報が漏えいか アルカディアへの不正アクセスの影響で - Yahoo!ニュース",
+      "title": "岡山県警の警察官や職員ほぼ全員約4000人分の個人情報が漏えいの可能性 アルカディアへの不正アクセスの影響で - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubXgxeXROd0VtcTRjRFF2VWhHbVFKMjFHd3lGSUtDYkhtNVF3M1BJazJrZktxSWlWbVRtZFZQUzIwX09SQ09fZ0NYNlBub1pZMXZtZnNoWlhhbXYyaDFrR2FOTE9JbHdrUnZ6M0tRdmo5ZnJ1a09iTVJpTVFOUnM?oc=5",
       "date": "Thu, 15 Oct 2026 05:54:26 GMT",
       "source": "Yahoo!ニュース",
-      "description": "岡山県警の警察官や職員ほぼ全員約4000人分の個人情報が漏えいか アルカディアへの不正アクセスの影響で Yahoo!ニュース"
+      "description": "岡山県警の警察官や職員ほぼ全員約4000人分の個人情報が漏えいの可能性 アルカディアへの不正アクセスの影響で Yahoo!ニュース"
+    },
+    {
+      "title": "アルカディア、防災情報配信サービス復旧へ 不正アクセスで一時停止 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZXBGTkxIV211aHhUUGRsWkJDWnJLV2FpQlpxaDF4UmpBOGRTZTBaT1RrbV9iVW92cFJaYlRXRnpZcE43RVp4QUUzWUdsLThXU255a0pKWDZwNGpXY1RGa2xXb2hSZzB2bU5Sdg?oc=5",
+      "date": "Thu, 15 Oct 2026 05:43:08 GMT",
+      "source": "日本経済新聞",
+      "description": "アルカディア、防災情報配信サービス復旧へ 不正アクセスで一時停止 日本経済新聞"
     },
     {
       "title": "小池酸素工業－反落 サイバー攻撃で情報流出の疑い 一部業務に支障(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
@@ -37,11 +128,11 @@
       "description": "小池酸素工業－反落 サイバー攻撃で情報流出の疑い 一部業務に支障(トレーダーズ・ウェブ) Yahoo!ファイナンス"
     },
     {
-      "title": "産婦人科など利用のシステムに不正アクセス 最大800機関に影響（朝日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMWh1ZUdPdXNMRVYwVk1sMi1RVFpDNnBLVDY4Z2s1cU9TRTNBZWpDQjZoSDFsWlVKYWJ6SGhXZi1nM29aM0tiU3VnemhrUEJ1SXJRQ3VoeTV4SmtjaXhtaEdUT3BsYkRWUWdZV205ZW55MkdQaUdtNjk1WmN4aTA?oc=5",
+      "title": "産婦人科など利用のシステムに不正アクセス 最大800機関に影響 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83eXBFSW0xb3cyRzZSdmRMZXJwdUlDTF9TWm94VzVqTkRBV2ViVVl1ek9rdm5iUFlRcXA4dDk0OUpOdENLQktLdVp5V1NfeWFBb0tmRVBPaTUxbTlSZUgwY1pzVklfaWM?oc=5",
       "date": "Thu, 15 Oct 2026 05:30:00 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "産婦人科など利用のシステムに不正アクセス 最大800機関に影響（朝日新聞） Yahoo!ニュース"
+      "source": "朝日新聞",
+      "description": "産婦人科など利用のシステムに不正アクセス 最大800機関に影響 朝日新聞"
     },
     {
       "title": "「アルカディア」に不正アクセス ３２０万件余りの個人情報漏えいの可能性 システム使用自治体の状況は - Yahoo!ニュース",
@@ -121,13 +212,6 @@
       "description": "千葉県千葉市の防災メールなど4サービスに不正アクセスの影響―延べ7万5,747件の登録情報に漏えいの可能性 合同会社ロケットボーイズ"
     },
     {
-      "title": "JR九州、メアド130万件の漏洩確認されず IDCへの不正アクセス - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQkxjRFdENl9PLTR0cUV2T3ZqWlItSXZXYUU0Y2pHaERIREtXdGR1VV8xcmNyUHFLWTE0dGhZWUYwWDE2SnFjNWlUd2xzZlhwSElhQ1RMbGt2SG5ZUFZiNkxfX2JhYndWWmc1ZQ?oc=5",
-      "date": "Thu, 15 Oct 2026 04:47:11 GMT",
-      "source": "日本経済新聞",
-      "description": "JR九州、メアド130万件の漏洩確認されず IDCへの不正アクセス 日本経済新聞"
-    },
-    {
       "title": "Webシェル設置からの情報流出に注意喚起 - トレンドマイクロ - ｄメニューニュース",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDMmhRcnViaFhxOFNYUEJfWG9qSzFPb1FOUXRtRU40ZHk5MTNnWFJ6WjJTX3NhOHpadUJIdk94RlI5TG8xSmJfbk9qcXhmYWNYemZpdjY4OGNjMUozYjRRYXhVWFctTjhSX1FhWUNkYmpINnM1cWhR0gF8QVVfeXFMUE9KWTU0UVQzdWkzZFlGeDVyOU5uT3ZHeTJIenRXRk1kVGZYVnc4eThkNWtEUHZWU0F0dUl0WThlVXhGTklSMmFNU2FNYjd0LVhHWERzZnVkcEJKM25ZNjNGeW83dVhKUHQ1bmhPSC1BWFhsN0p4Y2VuN18zQQ?oc=5",
       "date": "Thu, 15 Oct 2026 04:44:00 GMT",
@@ -170,6 +254,13 @@
       "description": "兵庫、岡山両県警でも漏えいか アルカディアへの不正アクセス（共同通信） Yahoo!ニュース"
     },
     {
+      "title": "兵庫、岡山両県警でも漏えいか アルカディアへの不正アクセス | 全国のニュース - 福井新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX2I3S3lJLW45dmFvakZ3WVpsVURJNWFyNXZpLTJZR25HVXZPOGw0eDd0bWpOTnJrSUE1emFFTGwxcHRkN2ZDbWVzQnRxbXdhSXNPYzhjVGFHak5NV1E?oc=5",
+      "date": "Thu, 15 Oct 2026 04:09:26 GMT",
+      "source": "福井新聞社",
+      "description": "兵庫、岡山両県警でも漏えいか アルカディアへの不正アクセス | 全国のニュース 福井新聞社"
+    },
+    {
       "title": "不正アクセス問題 「アットリンク」導入の産婦人科でWEB予約停止も 患者の個人情報なども情報漏洩した可能性 「メドレー」のシステムが一時停止 （RCC中国放送） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DVmdyMFdCMjh4N0dxMkRrTTEwamxWRVJRZkhwWUdZcjVUZjAxOUdrQm9qWlBPNE5tQnExVkVES1pSYmhtb3N4VkE4czV2a19aM3FtcU5kWEppS1J2enJsR2c4Wk9UblhGSUFNbUJhYTJBekltREhyU0dvTGNNSUE?oc=5",
       "date": "Thu, 15 Oct 2026 04:05:24 GMT",
@@ -203,6 +294,13 @@
       "date": "Thu, 15 Oct 2026 04:00:20 GMT",
       "source": "合同会社ロケットボーイズ",
       "description": "Ivanti Connect Secureのゼロデイ 脆弱性「CVE-2026-104935」がサイバー攻撃に悪用 合同会社ロケットボーイズ"
+    },
+    {
+      "title": "不正アクセス問題 「アットリンク」導入の産婦人科でWEB予約停止も 患者の個人情報なども情報漏洩した可能性 「メドレー」のシステムが一時停止 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDdpc1lCNnVRckRsNjNuY2FBeVltSk9lVmxrTjgzS0REckFuZGl5NF9CbEd4ZklNaUJPWjh6R19YVl9BTnV5V3lqcGF4VjgtbFpjdG04XzF4NXVOOFU1V1pSUTRmNlRIZlY4aFdFUVlwb1NMcUU3dTVndmZuN2h3Ty1MSl9iTTRCMFp1Q1pkcXdQeGg4b3ZrZnpvdUVlclF0MElPaGlwZndLZGk4ZjNwN3lUVXZ5LWgzUGozZGlJcWhCVHNM0gF0QVVfeXFMUDg4SWZiTWw1ZmhHMkZWRTBTbVFycnpNbzg5aUV6MERGX2RONmxJR0xSQXc4WlNEVEI4Q1lJbFY2UEpRVEFGa1J0QWdFeHU2SDM4d2VGbmhYcVA1SXo5amR5X2lYWkdIWmhSc1dSUmsxUFNranI?oc=5",
+      "date": "Thu, 15 Oct 2026 03:45:00 GMT",
+      "source": "ｄメニューニュース",
+      "description": "不正アクセス問題 「アットリンク」導入の産婦人科でWEB予約停止も 患者の個人情報なども情報漏洩した可能性 「メドレー」のシステムが一時停止 ｄメニューニュース"
     },
     {
       "title": "不正アクセスによる情報流出の可能性 青森県内でも相次ぐ これまでに6つの行政機関で情報漏えいの可能性あり 1万2000人以上にのぼる恐れ（ＡＴＶ青森テレビ） - Yahoo!ニュース",
@@ -254,6 +352,13 @@
       "description": "【長崎】障がい者向け通報システムにも不正アクセス 長崎市が利用（長崎文化放送） Yahoo!ニュース"
     },
     {
+      "title": "全国111の自治体などで情報漏えいの可能性 “防災情報”IT会社へ不正アクセス メアドや電話番号など計340万件流出か - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84MG5QbzNrWkQ5dWd2Q2VSSldHWHNXSzBYTktCQm8zMkVNei1XbURxeFV4SnRvTmN3QlR0Y1k5MjlyODB3bWluMFBVQXNJSmVRelNMcVplX0ZnQTZ3enZ2UXFHMXdxWU51a05wVUZoN2RQbmRLeklVNDlYTVY1UnM?oc=5",
+      "date": "Thu, 15 Oct 2026 03:13:41 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "全国111の自治体などで情報漏えいの可能性 “防災情報”IT会社へ不正アクセス メアドや電話番号など計340万件流出か Yahoo!ニュース"
+    },
+    {
       "title": "新潟県内11市町村で個人情報約16万件が漏えいか 防災メール事業者にサイバー攻撃 不審電話やメールに注意呼びかけ - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Z0VaaFh3OVR4ZVFzRzFZX1lscXRxRnptS0lJV1hOSVdmY1cxcFI0ZFJGb0R3U3JYMk1vR2x2Vk0xdUFNa0NfV0NrZFl5S3BpUkJMUGpfYmM1Q0tpMmRfUkZwVWw0QmdYRVNMODBueTRyZ3o1Qy1mS3JkQVlqbTQ?oc=5",
       "date": "Thu, 15 Oct 2026 03:09:16 GMT",
@@ -262,14 +367,14 @@
     },
     {
       "title": "新潟県内11市町村で個人情報約16万件が漏えいか 防災メール事業者にサイバー攻撃 不審電話やメールに注意呼びかけ - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aY2FuZ09ZcDNEVkpGSzZ2OGpaU2RYZC1mSS1Hajgza29fVkpVM1RMMkVtRHhwMzJjd2owcHE1NkZ0WWFtYTFnNXZMQ2I0T3RyMVZlcTRMX1otZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNlltSEJ4S1BoT2tFSDNmQzhueExiejR5QnI3clVDaXl1TlJhNHJZZUJTZkFVd0FkS3FNVF9YdzdRSkxHYmlMWE45MHQzR2VwbTAtUmVkMVQ0QURLaW1hQVdfcFRiZG8?oc=5",
       "date": "Thu, 15 Oct 2026 03:08:00 GMT",
       "source": "TBS NEWS DIG",
       "description": "新潟県内11市町村で個人情報約16万件が漏えいか 防災メール事業者にサイバー攻撃 不審電話やメールに注意呼びかけ TBS NEWS DIG"
     },
     {
       "title": "新潟県内11市町村で個人情報約16万件が漏えいか 防災メール事業者にサイバー攻撃 不審電話やメールに注意呼びかけ - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNlltSEJ4S1BoT2tFSDNmQzhueExiejR5QnI3clVDaXl1TlJhNHJZZUJTZkFVd0FkS3FNVF9YdzdRSkxHYmlMWE45MHQzR2VwbTAtUmVkMVQ0QURLaW1hQVdfcFRiZG8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aY2FuZ09ZcDNEVkpGSzZ2OGpaU2RYZC1mSS1Hajgza29fVkpVM1RMMkVtRHhwMzJjd2owcHE1NkZ0WWFtYTFnNXZMQ2I0T3RyMVZlcTRMX1otZw?oc=5",
       "date": "Thu, 15 Oct 2026 03:08:00 GMT",
       "source": "TBS NEWS DIG",
       "description": "新潟県内11市町村で個人情報約16万件が漏えいか 防災メール事業者にサイバー攻撃 不審電話やメールに注意呼びかけ TBS NEWS DIG"
@@ -293,7 +398,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNlpreU1WM3Vvd2xBandaX1E1bk90X1ZUQVJIeEJYOGd5VVliQmdSYlpBcFNETldUNTZfSGlYVzNSamlfVE5xSGNBQUx3b0g2WnJFLUtQc092QWdYVzhjd0V2VFZfWVVkVENmQQ?oc=5",
       "date": "Thu, 15 Oct 2026 03:02:58 GMT",
       "source": "日本経済新聞",
-      "description": "メドレーの医療システムに不正アクセス 最大787機関で情報漏洩か 日本経済新聞 不正アクセスで病院予約障害 医療系IT、サービス停止（共同通信） Yahoo!ニュース 産婦人科など利用のシステムに不正アクセス 最大800機関に影響 朝日新聞"
+      "description": "メドレーの医療システムに不正アクセス 最大787機関で情報漏洩か 日本経済新聞 不正アクセスで病院予約障害 医療系IT、サービス停止（共同通信） Yahoo!ニュース 産婦人科向けシステムに不正アクセス 患者情報漏えいのおそれ NHKニュース"
     },
     {
       "title": "JVN: スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
@@ -331,15 +436,22 @@
       "description": "医療システムの「メドレー」に不正アクセス 最大787件の医療機関で患者の個人情報流出のおそれ TBS NEWS DIG"
     },
     {
-      "title": "医療IT企業へ不正アクセスで病院予約障害（共同通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TQUVZLWN3MERNbjBnWkZCTEVEd2RRVkUyN2NEMDV2dllER1RJY1Z3TDFacjgyZjhuTXpJb28xWThXdFZ2YlM5SEtXbWNSd2tON3gwb2NDSDBNYW5XWnVGbTVoWFJyT3pGNXlKUXRxWm1uVmVwbzMwWDNwSXExcmc?oc=5",
+      "title": "【速報】医療IT企業へ不正アクセスで病院予約障害 - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ORkhzaWxlWXFSeFpEcmdnSlRQbFVmUzVYUjhtc0xVNlNwV1JYOWxNczE0NXlJVzdTVm41ak41TDJGNld0b0JiLWZISQ?oc=5",
       "date": "Thu, 15 Oct 2026 02:57:40 GMT",
+      "source": "47NEWS",
+      "description": "【速報】医療IT企業へ不正アクセスで病院予約障害 47NEWS"
+    },
+    {
+      "title": "医療システムの「メドレー」に不正アクセス 最大787件の医療機関で患者の個人情報流出のおそれ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tVUFySENlc1dLUGw4VndMaWl2aXFrdC1aSnJ6ejlHcEhQcFV1NWtqczNqWE1PX2wxWmFRYms2Z2lsbEdyejJDQThlZUUzSTZUVmtDSWpIZUtsREJHSlpTdUl3Q0VnLXRCVXduMnJaNng2Y0hwUU1DbzNIcHBud0E?oc=5",
+      "date": "Thu, 15 Oct 2026 02:57:23 GMT",
       "source": "Yahoo!ニュース",
-      "description": "医療IT企業へ不正アクセスで病院予約障害（共同通信） Yahoo!ニュース"
+      "description": "医療システムの「メドレー」に不正アクセス 最大787件の医療機関で患者の個人情報流出のおそれ Yahoo!ニュース"
     },
     {
       "title": "自治体向け情報配信サービス運営会社「アルカディア」への不正アクセスで安芸市でも情報漏えいか（高知） - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PWndQbWZtZEVvbVkyOGVUWE12RWV1blJFeHpMbVhXX2VpOVdYRm9ENmZ6S21rVVhmZnkxVEpuNVhub194aUd4Z2hxdks5N1U0Yk1zU2Z5N091VGM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EZS13VUJUamFvMHhmNWhubHNfQkJZUmRrSnNlWXpQRWNTdm1RRFNLLWU0dGszWjhCVnJ6dlVkenRyVWZ4SGtfYU9FSkRSOVBGUWk2M3BLeFRUcjkwMUxON3lnNmx2WHFP?oc=5",
       "date": "Thu, 15 Oct 2026 02:55:00 GMT",
       "source": "TBS NEWS DIG",
       "description": "自治体向け情報配信サービス運営会社「アルカディア」への不正アクセスで安芸市でも情報漏えいか（高知） TBS NEWS DIG"
@@ -422,6 +534,13 @@
       "description": "大規模な個人情報漏洩事案が頻発、「個人情報の保護に関する法律についてのガイドライン」等踏まえた適切な対応を—個情委 GemMed"
     },
     {
+      "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象 (ITmedia NEWS) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjVja29XeTZZaExZQXFWb3BLWmVSRUgzWHhVRnM3WXNfQV9nLUpFV0x5ODR0VjN0QUFuWU14a3ZEdGZPc043OHNra2lJa045SUJIMDcyQzZ4eTRkWEFUNXdhem5NWUM2Mm1nTEF6V2l1Si1YYkpXTGNzWU1iNEFXaHNrdnFUY2VOdTFyQmd3?oc=5",
+      "date": "Thu, 15 Oct 2026 02:17:30 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象 (ITmedia NEWS) Yahoo!ニュース"
+    },
+    {
       "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象 - ITmedia",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MkJfRXBJZl82SzNhQWhuaVF0ZW9HOG91c1JvWVFpV0lCYTVWMUg5LVozbEZCS3VFMC1ISDl6YnRuVnVnZmw4NmxQNkx1WjZSUWNjaXA5cDdOTWhUb18zeUZuTWhQMHV2N0E?oc=5",
       "date": "Thu, 15 Oct 2026 02:16:16 GMT",
@@ -455,6 +574,13 @@
       "date": "Thu, 15 Oct 2026 02:03:41 GMT",
       "source": "東奥日報社",
       "description": "青森市など県内でも不正アクセスで漏えいか｜青森県,行政・政治｜青森ニュース｜Web東奥 東奥日報社"
+    },
+    {
+      "title": "広島県警の警察官などの個人情報 約5700人分が漏えいか 「アルカディア」への不正アクセスに関連（テレビ新広島） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IU09hUU1rcVBOc1IxaEx6UjJ6UjZsamRKbGtQRGVFWDlLXzcyU2FkMFlIbUxObTEzZnlBeFZUTVFxZjNBZVhHOUQ1S0Zhb2pUaURESXkzOEI5bDdndFdtaXcwUENhMzB4UENRekY1bHdOeWl4dVdRZlVHVXdPYW8?oc=5",
+      "date": "Thu, 15 Oct 2026 02:02:01 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "広島県警の警察官などの個人情報 約5700人分が漏えいか 「アルカディア」への不正アクセスに関連（テレビ新広島） Yahoo!ニュース"
     },
     {
       "title": "マツダ「CLUB MAZDA COMMUNITY」、最大4,103名の情報に漏えいの可能性―委託先Communeへの不正アクセスによるサイバー攻撃で|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -520,13 +646,6 @@
       "description": "ミズノ、不正アクセス受けた公式サイトを復旧 個人情報「流出せず」 日本経済新聞"
     },
     {
-      "title": "【続報】「恐ろしい勢いで広がっている」アルカディア社への不正アクセス、東北で9万2800件情報漏えいの恐れ（河北新報） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aQVc4X21TV3d0TG15eGN5b1BmTWQwTUw0b1lKVi1peW8tQ1JseXNpU0dVWXRkV0NFWkhCbjVJOW1hak1FUmw1VUl5aFZmUjE2QU1zWmhzMFUzWU51NTE0UTkzNElxZUEyYUFSclAwcFFUZG1fUDYzaWV2cldjZDQ?oc=5",
-      "date": "Thu, 15 Oct 2026 01:30:46 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "【続報】「恐ろしい勢いで広がっている」アルカディア社への不正アクセス、東北で9万2800件情報漏えいの恐れ（河北新報） Yahoo!ニュース"
-    },
-    {
       "title": "JVN: Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
       "link": "https://jvn.jp/vu/JVNVU95613365/",
       "date": "2026-10-15T10:30:30+09:00",
@@ -553,6 +672,13 @@
       "date": "Thu, 15 Oct 2026 01:30:00 GMT",
       "source": "千葉テレビ放送株式会社",
       "description": "千葉県職員ら４３００人分の個人情報漏えいか 不正アクセス影響 自治体でも 千葉テレビ放送株式会社"
+    },
+    {
+      "title": "千葉県職員ら４３００人分の個人情報漏えいか 不正アクセス影響 自治体でも - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0FVOENRMnhJYndMNFE2SVI2Zi1jS1VCeVF1UnZtQk5DTTd6WUloUkxocFBjWk5mTDhfeWJYN1lMOXFETFRGZ2RyeUNXQXNwTzlUcE9lMU1EcHpzZWxXUkcwZktNZGpyeHcyODJFTDlpR3k3VDVZX1o0cWlEV1hBWHFB0gGHAUFVX3lxTE1VLW8yQUhxTlVlNTVnclN0YzFjOFBIZk43UWVkc0dSWEVpeENTSVRWQjc1X3FyZ2x1bTlZNG02UkpremlhcFpPQWtEaXZMdndBX0NFY1hzUjBxVzhSWjhOd1I4YkgxN1YzSHNmV1U5NDZfR0hvT2VVdmRob1ZOaHYzdkoyRllBUQ?oc=5",
+      "date": "Thu, 15 Oct 2026 01:30:00 GMT",
+      "source": "ｄメニューニュース",
+      "description": "千葉県職員ら４３００人分の個人情報漏えいか 不正アクセス影響 自治体でも ｄメニューニュース"
     },
     {
       "title": "JVN: Bishengにおける複数の認証回避の脆弱性",
@@ -632,11 +758,18 @@
       "description": "防災システムで個人情報漏えいか 市の防災メール新規登録停止（10月13日） ５５いまりアーカイブス"
     },
     {
-      "title": "アンソロピック共同創業者が来日 サイバー攻撃に警鐘「攻撃者がAI使用の可能性ある」 - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VbnBKRWRIcWsxd1JLc0hKZUxFQmZtME85U1FIWnlHU3ROVDhVUzNZSVU1TTY4U09DWkpCM3BSel83LXBrdm02UlBoUWgzemQtZXdiaGlCc1dSR2lmZU1Eb1VXMkVaQVBmajQyOWxzUHg0Zw?oc=5",
+      "title": "アンソロピック共同創業者が来日 サイバー攻撃に警鐘「攻撃者がAI使用の可能性ある」 - khb東日本放送",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tQi1yb1R3bGh3VEVIWEc1QVVndzlZT2ZjWUpzTFhzVHNOTVlEdGJEaWtLd25pd1hBbWxSWDZpVkZ2c1VMNWNjYm5oVXpaUk0?oc=5",
       "date": "Thu, 15 Oct 2026 00:40:00 GMT",
-      "source": "テレ朝NEWS",
-      "description": "アンソロピック共同創業者が来日 サイバー攻撃に警鐘「攻撃者がAI使用の可能性ある」 テレ朝NEWS"
+      "source": "khb東日本放送",
+      "description": "アンソロピック共同創業者が来日 サイバー攻撃に警鐘「攻撃者がAI使用の可能性ある」 khb東日本放送"
+    },
+    {
+      "title": "アンソロピック共同創業者が来日 サイバー攻撃に警鐘「攻撃者がAI使用の可能性ある」（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQzBJQnpDYmlzdVB0TFhvNUdzWVB2Z3pvV0h5LTU4LXR2UXBHR1dYcEJEZ2dIVUhtak9lZXdQcHdfVE8wNktWRVktMHVBS3hISi1PdjA3MVBDWlNZSjZxY2M3ajU3QXFlRXplM0tRWVdDeWI5NTdxbFItdTBkcms?oc=5",
+      "date": "Thu, 15 Oct 2026 00:40:00 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "アンソロピック共同創業者が来日 サイバー攻撃に警鐘「攻撃者がAI使用の可能性ある」（テレビ朝日系（ANN）） Yahoo!ニュース"
     },
     {
       "title": "メドレーの産婦人科向けシステムに不正アクセス、患者情報流出の可能性（ロイター） - Yahoo!ニュース",
@@ -646,11 +779,11 @@
       "description": "メドレーの産婦人科向けシステムに不正アクセス、患者情報流出の可能性（ロイター） Yahoo!ニュース"
     },
     {
-      "title": "メドレーに不正アクセス、患者の個人情報流出の可能性｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Q2NNVmFrYkRQeFpqeFo0c2I0Y0JTbWJ6LUwxTENtUFh6RzVPVGt6a1N6dC1UaEx0TXhvTHBwNUIwT3pLSVRydTROajNiYUY4X0RjQm0zRWtQaXR6ZkdVMHdOcFZKS3ZVSzdCTnpR?oc=5",
-      "date": "Thu, 15 Oct 2026 00:39:09 GMT",
-      "source": "Infoseek",
-      "description": "メドレーに不正アクセス、患者の個人情報流出の可能性｜Infoseekニュース Infoseek"
+      "title": "メドレーの産婦人科向けシステムに不正アクセス、患者情報流出の可能性 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40TUJvT3pyLTd5d0hxTndpMEhwZ19PbjdMU3RZX1Jyc2pJNHpjemdzcjNfWlhYdWRLa180OU1NM3dGUjZoZnk5SHZ2bEJhREZ2X3FfamwydkY5c3pQcnRlNy1ac2FuZDJYX0F6eG9yVUlpMmtNRFN5b0FzNA?oc=5",
+      "date": "Thu, 15 Oct 2026 00:39:00 GMT",
+      "source": "Reuters",
+      "description": "メドレーの産婦人科向けシステムに不正アクセス、患者情報流出の可能性 Reuters"
     },
     {
       "title": "メドレーに不正アクセス、患者の個人情報流出の可能性 - ｄメニューニュース",
@@ -807,18 +940,18 @@
       "description": "Cisco Secure Email Gatewayにゼロデイ 脆弱性「CVE-2026-76519」、サイバー攻撃で悪用 合同会社ロケットボーイズ"
     },
     {
-      "title": "“防災システム”情報漏洩やまず 静岡市4万3000人分メアド流出 職員に不審メールも - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tZk43UGVnR2k0VnFtekhyWFdLcnFCaXdLWDNDY0xoUnBMNzA0YmlFTVZMMjVMdS1MOEFfQVhoZ0RsdVdtMHhldDhSdUFaSUV3Q2tYSW1OUTFFNU1TM3pua2FxbGllbG1ERjY0MU1mSDl5dw?oc=5",
-      "date": "Thu, 15 Oct 2026 00:18:07 GMT",
-      "source": "テレ朝NEWS",
-      "description": "“防災システム”情報漏洩やまず 静岡市4万3000人分メアド流出 職員に不審メールも テレ朝NEWS"
-    },
-    {
       "title": "“防災システム”情報漏洩やまず 静岡市4万3000人分メアド流出 職員に不審メールも｜Quebee キュエビー - QAB 琉球朝日放送",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lTnk3UFpDSl9iM2FKX3RlcDlldU5GdWRqRmVSNWpfdlpZZVlnd0VOYXltaE96WlI5ckQyT2xvQVd6WDJjWjZRWVYxd1BOTEhXdE5jSlZPeXk?oc=5",
       "date": "Thu, 15 Oct 2026 00:18:07 GMT",
       "source": "QAB 琉球朝日放送",
       "description": "“防災システム”情報漏洩やまず 静岡市4万3000人分メアド流出 職員に不審メールも｜Quebee キュエビー QAB 琉球朝日放送"
+    },
+    {
+      "title": "“防災システム”情報漏洩やまず 静岡市4万3000人分メアド流出 職員に不審メールも - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tZk43UGVnR2k0VnFtekhyWFdLcnFCaXdLWDNDY0xoUnBMNzA0YmlFTVZMMjVMdS1MOEFfQVhoZ0RsdVdtMHhldDhSdUFaSUV3Q2tYSW1OUTFFNU1TM3pua2FxbGllbG1ERjY0MU1mSDl5dw?oc=5",
+      "date": "Thu, 15 Oct 2026 00:18:07 GMT",
+      "source": "テレ朝NEWS",
+      "description": "“防災システム”情報漏洩やまず 静岡市4万3000人分メアド流出 職員に不審メールも テレ朝NEWS"
     },
     {
       "title": "［社説］個人情報漏えい 官民で対策の底上げを（沖縄タイムス） - Yahoo!ニュース",
@@ -1052,13 +1185,6 @@
       "description": "世田谷区、江東区で3万件超の個人情報漏えいか 23区内でも不正アクセスの影響広がる 東京新聞"
     },
     {
-      "title": "多摩地域でも相次ぐ「防災メール」配信停止 不正アクセス問題、消防団の出動指令に影響も - 東京新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2MERBUFczeDRBd0FncU1FbFlpMTFEaDZQRHlqZVhqeDlGVHZtOXljRXdtVENVNWk4aUZWcDZrYldRd1ZobkFoc2h3Nlg3dzE0SG9R?oc=5",
-      "date": "Wed, 14 Oct 2026 22:11:27 GMT",
-      "source": "東京新聞",
-      "description": "多摩地域でも相次ぐ「防災メール」配信停止 不正アクセス問題、消防団の出動指令に影響も 東京新聞"
-    },
-    {
       "title": "生成AI悪用のサイバー攻撃に備えを セキュリティ脆弱性の検証や予防法を紹介 10月27・28日にセミナー - 沖縄タイムス社",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNRHEwd2pQbGJYd3NmQkpqU1RrX2dQZDMtR25Zbk92dkxwNTdDNUdzTFpvVDEzVXotVEpMSWlDUU04ZlJ0azZTX2QycXpkME9DWGU0X19wTmlLdzAtY2c?oc=5",
       "date": "Wed, 14 Oct 2026 21:46:00 GMT",
@@ -1144,7 +1270,7 @@
     },
     {
       "title": "《タイムズカー情報流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安…被害者の\"終わりなき後始末\" - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9acXduMDdvV0Z5YVcwM3JPYVV5OVU3Vl9pNmpjbUppNUU2dDVtclZPQXVFSlNjSHBobWRla3RQTWEtbjIyc1dudFFWeGNCTGE0a0RsaHNHWkhVMk0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12VzNpTV9kNnFWT0xkWnN4SzBnVmZneXk3UzBySU1SYXVscG5YWFJnWXR0MUx1VTVnam9rSTAzOE9qdjl4dUNIRHdYdlJzT3dXT0hGdXN4cjJ1OWs?oc=5",
       "date": "Wed, 14 Oct 2026 20:45:00 GMT",
       "source": "東洋経済オンライン",
       "description": "《タイムズカー情報流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安…被害者の\"終わりなき後始末\" 東洋経済オンライン"
@@ -1374,13 +1500,6 @@
       "description": "【詳報】情報漏洩か 青森市のメールマガジン登録者や安否確認メールに登録した市職員など約8000人の氏名やメールアドレスなど 市の運営委託先に不正アクセスか 他むつ市や青森県でも情報漏洩の可能性が… TBS NEWS DIG"
     },
     {
-      "title": "福島市など６市町村で個人情報漏えいか 防災情報配信社に不正アクセス - 福島民報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52dENUSjVSai1UZ0VPTkI0NkZESXpKVl9xOUJ1ejlJZnBzeXo3R2ozaGxzUWxkcTZ6ai1zdVIwVDVkNDlmQ2Jyd2NnVEZkNXM?oc=5",
-      "date": "Wed, 14 Oct 2026 12:20:00 GMT",
-      "source": "福島民報デジタル",
-      "description": "福島市など６市町村で個人情報漏えいか 防災情報配信社に不正アクセス 福島民報デジタル"
-    },
-    {
       "title": "防災行政無線放送メール配信システムへの不正アクセスについて - 松川町",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHFXSVM4MV9IN2ZGd29pZW9SNUNSZnRCbjZpNTcwUDI5aFExQTF4WTBLcnpWMmtRWUwzMkpiZGtvaGkxS3NRckJRX21qaDA1ZUFyU2hBNUZld28xcW1paldQS3Q0U0I3U0hzLWZqT0pDVUxQVUpFTC13eDJabkhZVUlnYVg5NVN1UUM2bkR2eEVHenpZNWFSa1NNWWM?oc=5",
       "date": "Wed, 14 Oct 2026 12:19:35 GMT",
@@ -1413,7 +1532,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uRmxKMDkwVlVkTjVDTjB4cFB2VTluOGJLbk5TY19uUFIzTzlaa0hSYlg1blozMnJlaDJrYVBxZzZuSWxjeG90cF9LRHhfUVJyX0N2LWRyZkZ4VWdwUzZMaC1kbzZYMG9QYzJFYUJtNXA2Q0ZQRGZtNWVqMHc0WWs?oc=5",
       "date": "Wed, 14 Oct 2026 12:02:29 GMT",
       "source": "Yahoo!ニュース",
-      "description": "110自治体、防災メールを停止 不正アクセスで情報漏えいの恐れ（共同通信） Yahoo!ニュース 自治体防災メール 不正アクセスでアドレス300万件など漏えいか | NHKニュース | サイバー攻撃、IT・ネット、通信 NHKニュース アルカディア、防災情報配信サービス復旧へ 不正アクセスで一時停止 日本経済新聞"
+      "description": "110自治体、防災メールを停止 不正アクセスで情報漏えいの恐れ（共同通信） Yahoo!ニュース 防災情報サービスに不正アクセス 自治体向け、メアド313万件漏洩か 日本経済新聞 アルカディア不正アクセスで青森県内消防本部にも影響 八戸や下北などでNET119の個人情報漏えいか（青森放送） Yahoo!ニュース"
     },
     {
       "title": "広島修道大学や山口大学もサイバー攻撃の標的に 大学も個人情報の漏えいに危機感 - 中国新聞デジタル",
@@ -1498,20 +1617,6 @@
       "date": "Wed, 14 Oct 2026 11:20:02 GMT",
       "source": "PR TIMES",
       "description": "激増するAIサイバー攻撃に守りを固めるセンスを養う：「文系視点でみる 監査人のためのサイバーリスク対策はやわかり講座」（講師：戸村智憲）2027年1月27日ご案内【日本マネジメント総合研究所合同会社】 PR TIMES"
-    },
-    {
-      "title": "静岡県内は12市町で…静岡市など自治体で相次ぐ個人情報漏えい 不審なメールも確認 - テレビ静岡",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xZ2RqcVV4QVZwZHFwSE9LSXRxMWZFc3Jqb2M2dnJGTVJjWC1aUTBzTGFhZXlHSS0ycWRWLW95WEI1QTlnck9NMmZUeUdieXJEb1JpRncycGF3QTBtN0pDaTYtVQ?oc=5",
-      "date": "Wed, 14 Oct 2026 11:20:00 GMT",
-      "source": "テレビ静岡",
-      "description": "静岡県内は12市町で…静岡市など自治体で相次ぐ個人情報漏えい 不審なメールも確認 テレビ静岡"
-    },
-    {
-      "title": "「アルカディアと連絡つかない」不正アクセスで青森市7,900人分や県職員の個人情報漏えいか…影響広がる - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRm5rZmI0aF9FX3p6Y0JycUc4X2NVS0VqcXBPRDBaX2NMZVhjaGUxMURtbmV5WkNzVHhKVko4ZEJIaDBJdENPaGdWTGpNa2RVVHhrVFl2TXFaVzUtUkUwanFNOFVwRGZTdGY0VGRRbUp1TmlFbGxHUUVicFNJRmN1VkNqWTNtRlE?oc=5",
-      "date": "Wed, 14 Oct 2026 11:16:01 GMT",
-      "source": "日テレNEWS NNN",
-      "description": "「アルカディアと連絡つかない」不正アクセスで青森市7,900人分や県職員の個人情報漏えいか…影響広がる 日テレNEWS NNN"
     },
     {
       "title": "不正アクセスで個人情報漏えいか 千葉市の情報配信サービスで最大約7万6千人分（チバテレ） - Yahoo!ニュース",
@@ -1631,13 +1736,6 @@
       "date": "Wed, 14 Oct 2026 10:29:01 GMT",
       "source": "Yahoo!ニュース",
       "description": "長崎市や島原市などで個人情報漏えいの可能性（KTNテレビ長崎） Yahoo!ニュース"
-    },
-    {
-      "title": "不正アクセスでデータ流出 福島市の「防災情報メール」約7000件 郡山市や北塩原村でも流出の可能性（福島テレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bDlWXzhpYnNWem05YUpMZWtOT2oxQmYtdVh0ZUwwcEdhU0o0RldZMUJaVUVxMUFtRk9RdXJuZ3JDM09WRVpvaE1kQlNEWktVazFLZTAwRHJmOXFILVpPN1dFRld3NUZid0dtVzc3bG5aekhCNF9BMUp6OUh5Y0E?oc=5",
-      "date": "Wed, 14 Oct 2026 10:27:02 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "不正アクセスでデータ流出 福島市の「防災情報メール」約7000件 郡山市や北塩原村でも流出の可能性（福島テレビ） Yahoo!ニュース"
     },
     {
       "title": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに | NHKニュース | サイバー攻撃、IT・ネット、生成AI・人工知能 - NHKニュース",
@@ -1843,13 +1941,6 @@
       "description": "不正アクセス 少なくとも12市町で個人情報漏えいのおそれ 広島 NHKニュース"
     },
     {
-      "title": "京都府の自治体でも「個人情報漏えい」発覚相次ぐ 最大2万人超、防災サイレンに影響も - 京都新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fVFhwUjZ6YVRwV3Z5aHNTME1lVVY1dG55T3dycTNlRVdBTjYzMlJuRXVVcGgzZEtFZmN6RGkzNC05aTJMaEFJQ21tZlRBUmVma1RZTWdMZVU?oc=5",
-      "date": "Wed, 14 Oct 2026 09:37:00 GMT",
-      "source": "京都新聞デジタル",
-      "description": "京都府の自治体でも「個人情報漏えい」発覚相次ぐ 最大2万人超、防災サイレンに影響も 京都新聞デジタル"
-    },
-    {
       "title": "日本バスケットボール協会が公式サイト停止の状況を説明 運営事業者へのランサムウェア攻撃、別サーバーで再構築を予定 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bVRHWE85eHBheEF0eGNsaVBxSFhiRU1xX2Q4Y2pFUEhjVHFqWjdNVml3Z1VKa3d5MjJDOG9Sa2lOdG5BZlFiSTRCZlZwd3o3cXhsdVptTlZ0bXF5elhhaDEyVGdmOUQzNUg0ZDV0cW1HQW1fZnVObXNvRmJwQjA?oc=5",
       "date": "Wed, 14 Oct 2026 09:34:03 GMT",
@@ -2004,13 +2095,6 @@
       "description": "「相次ぐ情報漏洩の背景にAIの進化 社会の基盤が脅かされている」東浩紀（AERA DIGITAL） Yahoo!ニュース"
     },
     {
-      "title": "静岡市4万人超の情報漏洩 「アルカディア」不正アクセスで 不審メールが職員20人に - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0c2duRWthUlo1R2pvX2xDVUtHUmZERVFTNjNGcWgxR3BxdEZlbXBoSTBQUDJNbUdKUVVjd3RFYXM4UUF4WkxIXzl6TTFvYUZfUFZrN190ZUN6bzN5dWtpb1hleHVrY0RIMHRXbVFhSDQ2UQ?oc=5",
-      "date": "Wed, 14 Oct 2026 08:18:33 GMT",
-      "source": "テレ朝NEWS",
-      "description": "静岡市4万人超の情報漏洩 「アルカディア」不正アクセスで 不審メールが職員20人に テレ朝NEWS"
-    },
-    {
       "title": "静岡市4万人超の情報漏洩 「アルカディア」不正アクセスで 不審メールが職員20人に - khb東日本放送",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaktTdTROd3o4bkl0a0MwU2VuTmMyclV1anJwTXE0ZEhoX2I0MFRxS2JxUEZDVGh3WkR4dF8yWW1qQU8tRTVSRGt4QW40cnc?oc=5",
       "date": "Wed, 14 Oct 2026 08:18:33 GMT",
@@ -2032,13 +2116,6 @@
       "description": "格安小売り「アエナ」に不正アクセス、最大81万7千人の情報流出か 朝日新聞"
     },
     {
-      "title": "バスケ日本協会にシステム障害 サイト委託先にサイバー攻撃 公式サイトなど完全復旧ほぼ不可能 個人情報流出は現在なし バド日本協会と同じクラウドサービス（デイリースポーツ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SDJCNkpLamxPZnVUWTlLaFRRWnFfakt5UFRQZXlqRDlDSXhvWkxWanBCajB4dkZnenlmNVdpLVJqSV9XNUViMzZ1eEhoNkZLYVhza1p4akNYSklLTGg2ZEJhNmRSNjA4dTFyNmFXbXAyc0hLZFFWSUdfWHFkNkk?oc=5",
-      "date": "Wed, 14 Oct 2026 08:09:03 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "バスケ日本協会にシステム障害 サイト委託先にサイバー攻撃 公式サイトなど完全復旧ほぼ不可能 個人情報流出は現在なし バド日本協会と同じクラウドサービス（デイリースポーツ） Yahoo!ニュース"
-    },
-    {
       "title": "福岡・古賀市と大分・日田市が個人情報漏えいを発表 「アルカディア」不正アクセスで - 西日本新聞me",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtZGc0Ry1HSHZyc3JHVDVLRWFlRDZoNWljdm9rOTU0RWN1NzFnR1JaZGd0ejdVemtWbkJ1Y0xSd3VIN0xfVmRoUnNBTnV2ODFZLTZSMXVn?oc=5",
       "date": "Wed, 14 Oct 2026 08:06:00 GMT",
@@ -2058,13 +2135,6 @@
       "date": "Wed, 14 Oct 2026 07:52:31 GMT",
       "source": "EnterpriseZine",
       "description": "急増するサイバー攻撃の手法は？──Recorded Futureが10/20に緊急ウェビナー開催 EnterpriseZine"
-    },
-    {
-      "title": "アンソロピック共同創業者「サイバー攻撃にAI利用の可能性」 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNjlRV0lQTDAzc2lsX0pKVExrNVNscG9CczNOd1ZmOVVxbDIzc1JwSkw0bXlZd3dLeE84MDB3WXZJTFhQcThIX29ma0dKNjMyTFltOWNVVG9RRTRzVjJyVUlKb0dCYTFMZk5WaA?oc=5",
-      "date": "Wed, 14 Oct 2026 07:39:28 GMT",
-      "source": "日本経済新聞",
-      "description": "アンソロピック共同創業者「サイバー攻撃にAI利用の可能性」 日本経済新聞"
     },
     {
       "title": "【速報】マツダでも不正アクセス 会員向けコミュニティサイトで最大４１０３人分の個人情報漏えいか 広島（テレビ新広島） - Yahoo!ニュース",
@@ -2102,13 +2172,6 @@
       "description": "米当局は現地時間2026年10月13日、悪用が確認されている脆弱性2件について注意を呼びかけた。"
     },
     {
-      "title": "自治体の防災情報配信などに使われる「SpeeCAN RAIDEN」、不正アクセスで個人情報漏えいの可能性 - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fWjZwZWZBaVZGNS1qMG93RFJ4aWVkaFg4ank4OTR3Yk1jbG5XRW84TmFHN211Q21uQWkzWjFwUGE5ZEpIX29LM0IzWkJDVEtxNU5NSkNvN0JjaDRPZWdEdlZtR290cW1mdHFV?oc=5",
-      "date": "Wed, 14 Oct 2026 07:15:44 GMT",
-      "source": "INTERNET Watch",
-      "description": "自治体の防災情報配信などに使われる「SpeeCAN RAIDEN」、不正アクセスで個人情報漏えいの可能性 INTERNET Watch"
-    },
-    {
       "title": "福岡の自治体で“個人情報漏えい”相次ぐ 「アルカディア」への不正アクセスが影響 久留米市と遠賀町で防災メール配信が一時停止に（TNCテレビ西日本） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpMlNHR3ZPeEtKUjBfcGRWZ0VjR2Y5RlBiRkl2NjZXSHB3M0I0Q0dTWWxrSUxOT2NMeFpYdDhNa1JfQWZmeWxsc2pKeWZTSmdaaFFtc3NCV1J4c0lwcXZIQ3FsV2FQSkJ2RXJDY1F5cmNGVFo4SUw2QUprWlZpdkE?oc=5",
       "date": "Wed, 14 Oct 2026 07:11:01 GMT",
@@ -2128,13 +2191,6 @@
       "date": "Wed, 14 Oct 2026 07:01:41 +0000",
       "source": "Security NEXT",
       "description": "EGセキュアソリューションズは2026年10月14日、同社が提供するウェブアプリケーションファイアウォール「SiteGuard Server Edition」の脆弱性について公表した。すでに悪用が確認されているとして、注意を呼びかけている。"
-    },
-    {
-      "title": "ランサムウェア 交渉会社の元幹部を米国で逮捕―ShinyHunters捜査との関連を報道、情報恐喝の共謀容疑 - 合同会社ロケットボーイズ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3A4LTI2WmpJYWdiREJzU1Q3Z1ZINkkzWHk2UjVYYlBEQjB4NjY2SWxQNEFZSUdza2V4NHVJSWJ4WU00YkNoVEI1dW1DSmRGa2ctb1hmQ2RrTmsyMmVTak9FNThDbzJIV1V1V2IzRl9HdGYtczVqYzJLR1JMRE1pUllzT190OFRGQXZsVUh6WVlnYlBXNUoyVWpuR1NfamFjOVNBS0MyVkFBcDQ?oc=5",
-      "date": "Wed, 14 Oct 2026 07:00:39 GMT",
-      "source": "合同会社ロケットボーイズ",
-      "description": "ランサムウェア 交渉会社の元幹部を米国で逮捕―ShinyHunters捜査との関連を報道、情報恐喝の共謀容疑 合同会社ロケットボーイズ"
     },
     {
       "title": "7800人分の個人情報漏えい恐れ、栃木県鹿沼市 - 下野新聞社",
@@ -2163,13 +2219,6 @@
       "date": "Wed, 14 Oct 2026 06:45:48 GMT",
       "source": "自由民主党",
       "description": "サイバーセキュリティ有事に対峙不正アクセス再発防止へ議論 | お知らせ | ニュース 自由民主党"
-    },
-    {
-      "title": "【速報】札幌など道内20自治体に影響 不正アクセスでシステム障害 配信停止や情報漏えいのおそれ 北海道 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Td0xsemRyczE3RGhuYlp2dnZLOVpMb2JKQVc1bHczeGFsRktEa21zNVVUaUZWUHRUcGRKZU5NUVRNS0N6anhYZHdyMUNLQjUzMUdBcHlRTHUxVGxtWHFDbjRUbTFvRWZhWXMxd2RiaEtFMjVfMTQ0akVJalV6Wnc?oc=5",
-      "date": "Wed, 14 Oct 2026 06:43:01 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "【速報】札幌など道内20自治体に影響 不正アクセスでシステム障害 配信停止や情報漏えいのおそれ 北海道 Yahoo!ニュース"
     },
     {
       "title": "イズミ、最大40万件の情報流出恐れ ソフトバンク系不正アクセス - 日本経済新聞",
@@ -2284,6 +2333,13 @@
       "description": "「ゆめタウン」のイズミ 最大40万件情報漏洩の可能性 「ゆめオンライン」「ゆめデリバリー」のメルマガ配信委託事業者利用のクラウドサービスに不正アクセス 広島 TBS NEWS DIG"
     },
     {
+      "title": "なぜサイバー攻撃で食品ロスが発生するのか 仏スーパー数百店で冷凍庫が50度、アイスが路上に流れ出す #エキスパートトピ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEpPY3hFUTZCcW5ZTWZEOTZqblFub09oQ1JhR2l5NjBtRGVSZWNfWllzbmNkYlA1dVl5c2szWDl4aURVZFFqUHpYX1Fud0RYOWRiZXJPNjlzd3ZLU1JMYkduMHhMN3BRbjZkU1ZoZllFbFZ4MVJ6S1IxcUJBbHdOQ2NmN014X2VG?oc=5",
+      "date": "Wed, 14 Oct 2026 02:52:57 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "なぜサイバー攻撃で食品ロスが発生するのか 仏スーパー数百店で冷凍庫が50度、アイスが路上に流れ出す #エキスパートトピ Yahoo!ニュース"
+    },
+    {
       "title": "大阪のIT関連会社に不正アクセス 約314万件のメールアドレスなど漏えいか 自治体の防災システムなど運営 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZlNSbUpSMWtqdFBldS1uaFYzb1Bucm9uckhySWNwVkk2OHVXZl80OVJHcGhDOS1QZFBTVVRjMDJJZmJ1SE11VWR1c25IcjZwckNsVld1QXNfZnZiZ3E2Z2pST0NrMXI4cUo2Y3JJeEFrdWVtQlAwMmlaU2taM3M?oc=5",
       "date": "Wed, 14 Oct 2026 02:52:00 GMT",
@@ -2296,13 +2352,6 @@
       "date": "Wed, 14 Oct 2026 02:51:00 GMT",
       "source": "中国新聞デジタル",
       "description": "「ゆめタウン」のイズミ、不正アクセスで最大40万件の個人情報漏えいか 中国新聞デジタル"
-    },
-    {
-      "title": "個人情報漏えいか 自治体の防災システムを運営するIT企業に不正アクセス 大阪府や滋賀県、大分県は配信停止 - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHVVbWRTeHpHcjVlcFhxZDJMLWJiM3lhczc1WE15TWs3bUYyU1ZXeHV0Uk9sTmNobTk3Zko3Wjh5Y1NOY1BBUHlYYmw5SVNKSEl0M241TFZJZmNLamRzV0tBaDl0VnR6RjhMUzBNVjNSVHlfbEhvSnd0RVVnRjFEWUNnal9Hd2c?oc=5",
-      "date": "Wed, 14 Oct 2026 02:50:01 GMT",
-      "source": "日テレNEWS NNN",
-      "description": "個人情報漏えいか 自治体の防災システムを運営するIT企業に不正アクセス 大阪府や滋賀県、大分県は配信停止 日テレNEWS NNN"
     },
     {
       "title": "ブックオフ 退会の21万人も漏えい - Yahoo!ニュース",
@@ -2529,18 +2578,18 @@
       "description": "デンマーク880万件情報漏洩、原因はパスワード「123456」か 日本経済新聞"
     },
     {
-      "title": "自治体など利用する一斉同報サービスに不正侵入 - 影響を調査",
-      "link": "https://www.security-next.com/191371",
-      "date": "Tue, 13 Oct 2026 13:54:25 +0000",
-      "source": "Security NEXT",
-      "description": "アルカディアは、同社が運営する一斉同報サービス「SpeeCAN RAIDEN」が侵害され、個人情報が流出した可能性があることを明らかにした。一部サービスを停止するとともに調査を進めている。"
-    },
-    {
       "title": "「アルカディア」に不正アクセス 約３２５万件の個人情報漏洩した可能性 自治体向けに防災アプリ提供するシステム運営 大阪・箕面市などがメール配信停止 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWkpnV1ZkWThJcmt5eFhGbGxrd29Da3FBT0c4eVBhbm4ySUFaZmNYbU1zYWQ3NFlvZU9McFJOVy1tMEdGajcyZTFRcDJpdFhiSW5ETjFLY3FZWXAtOTMzYWgybERvWGJpcnk3MkdXdklySU9NSk1USmlEeXhYaVk?oc=5",
       "date": "Tue, 13 Oct 2026 13:07:40 GMT",
       "source": "Yahoo!ニュース",
       "description": "「アルカディア」に不正アクセス 約３２５万件の個人情報漏洩した可能性 自治体向けに防災アプリ提供するシステム運営 大阪・箕面市などがメール配信停止 Yahoo!ニュース"
+    },
+    {
+      "title": "タイムズカーへの不正アクセス、漏えい問題受け 免許証の再交付受け付け 福島県公安委 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MSTZaMzlYY3I0Q3JXYXFnSFdxVkFfM3NnYVYyQ3VlRS0wYk1sdmpfc1VVV1BvdER4SWNxRklwUFRTUWdiOG5YaUl0WkNXVEF6b25sdkFsVQ?oc=5",
+      "date": "Tue, 13 Oct 2026 12:41:00 GMT",
+      "source": "TBS NEWS DIG",
+      "description": "タイムズカーへの不正アクセス、漏えい問題受け 免許証の再交付受け付け 福島県公安委 TBS NEWS DIG"
     },
     {
       "title": "日本郵便、最大4807件の顧客情報漏洩の恐れ システム不具合で - 日本経済新聞",
@@ -2620,13 +2669,6 @@
       "description": "自民党、AI規制・サイバー攻撃めぐりアンソロピックと議論 連携確認 日本経済新聞"
     },
     {
-      "title": "相次ぐ企業への不正アクセス 個人情報漏えい 身を守る対策は… 重要なのはパスワード管理 どうすれば…【長野】（テレビ信州） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fenpabW1zRkp5dnFzX0xrRGFDUnF5VGxEV1hORGt2bndUVDZpMmVjWGxZVnBlQlYwWUpDcFQ1YlUzMTRDRlpRQkRWZU14aldvQVVhbk5rWTJBVDliT1NNOC1KVTZyalNYNjg4Z2w3eHdLZk1ROUhXWjlKQWh2RWM?oc=5",
-      "date": "Tue, 13 Oct 2026 09:12:00 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "相次ぐ企業への不正アクセス 個人情報漏えい 身を守る対策は… 重要なのはパスワード管理 どうすれば…【長野】（テレビ信州） Yahoo!ニュース"
-    },
-    {
       "title": "サイバー攻撃、社会実装のブレーキにしてはいけない＝ＪＥＩＴＡ・自工会会長 | ロイター - Reuters",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVHdQQ3p2VjRRWXJJRXlUeFZBb0ZnSXQxM2d4RlA5bTVmOXl2eWJ1Tmo0WGtud1g5RzFhemVZdTRRNjJodGN1UVVkTEJocUNPaGNKeHdrbVF1aWNoT1d5ZkZrUzJWQlM1RDY5TTgwdmplSDE3NC0zbmt0cw?oc=5",
       "date": "Tue, 13 Oct 2026 08:42:00 GMT",
@@ -2646,13 +2688,6 @@
       "date": "Tue, 13 Oct 2026 08:00:00 GMT",
       "source": "日経ビジネス電子版",
       "description": "あなたの会社は大丈夫？ サイバー攻撃、「有事」「平時」の対策チェックリスト 日経ビジネス電子版"
-    },
-    {
-      "title": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByRGhYTC01Nl81TWRsejBZcnlSQzF2a2x6YVlSeUU5dmxZZzFsZXh3ZG9qd1BkZTVNcWlRNmVyLUZtdjhwNlliZnNGOG9USXFjc2ZHT2NzS2d4NU9yNjFj?oc=5",
-      "date": "Tue, 13 Oct 2026 07:56:08 GMT",
-      "source": "NHKニュース",
-      "description": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で NHKニュース"
     },
     {
       "title": "「安全・安心メール」の個人情報漏えいの可能性 神奈川・綾瀬市（テレビ朝日系（ANN）） - Yahoo!ニュース",
@@ -2730,13 +2765,6 @@
       "date": "Tue, 13 Oct 2026 02:16:55 +0000",
       "source": "Security NEXT",
       "description": "PDFやPostScriptを処理する「Ghostscript」に、任意のコード実行や権限昇格につながる複数の脆弱性の詳細情報が公開された。脆弱性は2026年9月のアップデートで修正されている。"
-    },
-    {
-      "title": "「バイトル」で会員メールアドレスが流出した可能性",
-      "link": "https://www.security-next.com/191327",
-      "date": "Tue, 13 Oct 2026 01:44:25 +0000",
-      "source": "Security NEXT",
-      "description": "アルバイト求人情報サイト「バイトル」および「バイトルNEXT」において、登録会員のメールアドレスが外部に流出したことがわかった。"
     },
     {
       "title": "プレスリリース：Gartner、多発する日本企業の不正アクセス事案に関する緊急的な提言を発表 - Gartner Japan",
