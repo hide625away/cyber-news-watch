@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-10-18T11:39:00.709822+00:00",
+  "updated_at": "2026-10-18T12:02:44.653390+00:00",
   "items": [
+    {
+      "title": "IDCFクラウド、ランサムウェア攻撃後にバックアップサービスを再開―第6報、スナップショットは停止継続 - 合同会社ロケットボーイズ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRC1MM3VpOGMyTTZzQWozazNaUER3N2V4XzVMR2hOQmNxb2FQaVYtY2YyZGVhd3lPSUlBM2RCNG1qTi1JQl9id191ZDNRUmU4VFFPMGxaVnNhcnVQUXBCbUZ4VnhPZ0ZCdERONGNXemJyYVJaZ1JNT0EzRnExZ2wtTnhJcHNIRWw0WkphVW9NcnVHX0V5SW41T3VoRTA2TGM?oc=5",
+      "date": "Sun, 18 Oct 2026 11:50:55 GMT",
+      "source": "合同会社ロケットボーイズ",
+      "description": "IDCFクラウド、ランサムウェア攻撃後にバックアップサービスを再開―第6報、スナップショットは停止継続 合同会社ロケットボーイズ"
+    },
     {
       "title": "ハリス、ID・住所など個人情報流出 - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWpLdzNUYWdoYjBWVWxxa0pJZDN4blVxWXlOUG9ZOXB5YTVrZVZBTkk3NzlBRUp4M1lfUWhQb2M2TFRhSUppRWFuXzF3bnpsSndYanZkTUVRSjlwSnBMS2t6SzNTN0RONDlYcGJTclQ0V1FXU0ZJeWVISzdETzBWcA?oc=5",
       "date": "Sun, 18 Oct 2026 11:20:00 GMT",
       "source": "조선일보",
       "description": "ハリス、ID・住所など個人情報流出 조선일보"
+    },
+    {
+      "title": "相次ぐ不正アクセスで強まる警戒感、CEATECで見えたサイバー対策の最前線 - 電波新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02V1c3ZUZCYUd3clFBZW9hUHRqZmRfNjlrdXFfUC1tdThYVGtpR2dYa2RldVVYdW5DUXZQdzhyNjY3ODR2SzhhTHNhNGY0dmlMVUE?oc=5",
+      "date": "Sun, 18 Oct 2026 11:17:47 GMT",
+      "source": "電波新聞デジタル",
+      "description": "相次ぐ不正アクセスで強まる警戒感、CEATECで見えたサイバー対策の最前線 電波新聞デジタル"
     },
     {
       "title": "横須賀商議所セミナー サイバー攻撃対策中小企業も必須〈横須賀市・三浦市〉 - ｄメニューニュース",
@@ -28,13 +42,6 @@
       "date": "Sun, 18 Oct 2026 10:30:00 GMT",
       "source": "47NEWS",
       "description": "足利市斎場予約システムに不正アクセス 利用者情報8800件など漏えい恐れ 47NEWS"
-    },
-    {
-      "title": "サンデーモーニング [字] AI家電にもサイバー攻撃の脅威▽「仕事で返せ」一転…簗大臣辞任 - TBSテレビ",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51clFwNV9fdFhYSE9XUEJObDNQSm9FTW41REFGTWJnTFJQUnQ2d0N4cHNlS0lwVk9GVTBHcl9UNGtYOU8tUEZZdFNHX3ozakZiRVB0UklR?oc=5",
-      "date": "Sun, 18 Oct 2026 10:08:47 GMT",
-      "source": "TBSテレビ",
-      "description": "サンデーモーニング [字] AI家電にもサイバー攻撃の脅威▽「仕事で返せ」一転…簗大臣辞任 TBSテレビ"
     },
     {
       "title": "ハリスで会員情報流出 パスワード即時変更要請 - CHOSUNBIZ - Chosunbiz",
@@ -177,6 +184,13 @@
       "description": "東北電力のグループ会社「東北電力フロンティア」で情報漏えいか 不正アクセスの影響で（tbc東北放送） Yahoo!ニュース"
     },
     {
+      "title": "サイバー攻撃は「心の災害」である（西多昌規） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjE5RDFwTXlaZUVYNlE5X0VkV25CaG9RRzcxcENlQk5mZGQ5TTFudlpqc2pNNzJPb2ZTQ2tWeG9CNnVvdU5NLWtOUDBVMzlpRW9fQjRzQWd3RU9IcW5DZTRVYkhUUGN4TjFuYXVmTUtxTTAwQXJleXdKTTFSbEtSaUhnQUpoNEZw?oc=5",
+      "date": "Sun, 18 Oct 2026 02:31:13 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "サイバー攻撃は「心の災害」である（西多昌規） - エキスパート Yahoo!ニュース"
+    },
+    {
       "title": "ログイン失敗を31秒で修正──AIが侵入から身代金要求まで自律実行、ランサムウェア防御もAIが担う時代へ - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZVVWd0wyQ0NSLWhhQS1kZmNxVFpIX3dsUWU5ZHhlbWtZYTVOaUx1UUR1XzJiNHpnSFdWQkpNS3QwcjVNZmFuTXFfUHlhdEZhTTdkYU1lcTZHZG9TUnFEWFdMNGhNdmNDX2p3bDRjQm8wRGU1M3NGTDhydWJpaWM?oc=5",
       "date": "Sun, 18 Oct 2026 02:30:00 GMT",
@@ -196,6 +210,13 @@
       "date": "Sun, 18 Oct 2026 02:05:00 GMT",
       "source": "innovaTopia",
       "description": "ジャパンタイムズにランサムウェア攻撃、窃取を主張するデータの公開を確認 2022年まで使ったサーバーが対象 innovaTopia"
+    },
+    {
+      "title": "サンデーモーニング [字] AI家電にもサイバー攻撃の脅威▽「仕事で返せ」一転…簗大臣辞任 - TBSテレビ",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51clFwNV9fdFhYSE9XUEJObDNQSm9FTW41REFGTWJnTFJQUnQ2d0N4cHNlS0lwVk9GVTBHcl9UNGtYOU8tUEZZdFNHX3ozakZiRVB0UklR?oc=5",
+      "date": "Sun, 18 Oct 2026 02:02:39 GMT",
+      "source": "TBSテレビ",
+      "description": "サンデーモーニング [字] AI家電にもサイバー攻撃の脅威▽「仕事で返せ」一転…簗大臣辞任 TBSテレビ"
     },
     {
       "title": "徳島県警、警察官・職員約1,900人の情報漏えいのおそれ―アルカディアへの不正アクセス、なりすまし・標的型攻撃に警戒 - 合同会社ロケットボーイズ",
@@ -315,20 +336,6 @@
       "date": "Sat, 17 Oct 2026 16:17:33 GMT",
       "source": "Yahoo!ニュース",
       "description": "相次ぐサイバー攻撃、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文停止など影響広がる Yahoo!ニュース"
-    },
-    {
-      "title": "相次ぐサイバー攻撃、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文停止など影響広がる - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YdFhnY3BEdDgtOFoxZDJpajl1OWF4OGJCN3VvSUdBZEtselJ6V3A3bXFCcEVKbE1Dd1A4bUtTVHFnbmRyc24wN0RXVDQ3d203VWViNmI1ZWJpRkU2azYxSC1B?oc=5",
-      "date": "Sat, 17 Oct 2026 16:17:00 GMT",
-      "source": "Infoseek",
-      "description": "相次ぐサイバー攻撃、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文停止など影響広がる Infoseek"
-    },
-    {
-      "title": "三谷幸喜氏 個人情報流出の話題に「僕はクレジットカード１枚も持ってないですから」（東スポWEB） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdVRHRVo2RlBULUszZFNzbmk3WU5FQkRJUWNyaTFQLWNodlNtbVoyMHZoTHFNT19IOEQzMmlvVjdqSzVJcERYeVJjZW9sS0Y5eWgtRjM0elpOR1NNenVsWDV2bHNHNjhJZWFhcExTdWVrOFEwNlVuT01Oem5LZ1k?oc=5",
-      "date": "Sat, 17 Oct 2026 14:30:34 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "三谷幸喜氏 個人情報流出の話題に「僕はクレジットカード１枚も持ってないですから」（東スポWEB） Yahoo!ニュース"
     },
     {
       "title": "東北電力子会社で個人情報漏洩か 約180人分、東京のHP運営企業に不正アクセス - 産経ニュース",
@@ -1479,6 +1486,13 @@
       "description": "水道を狙うサイバー攻撃。同じ弱点を突き、複数施設へ広がる脅威（橋本淳司） - エキスパート Yahoo!ニュース"
     },
     {
+      "title": "児童らの個人情報流出か、委託業者に不正アクセス 北海道・釧路（毎日新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aS0VKdFN3aVl2UDFJcmlQeVJheXVwS0kxc3VBTlp1YWtRaEJ0WlFxdFdhQnJWa1dNTk5yMWF6YkxDbGdfV0NEWUNCMmg2U25CWlZQUVVlNE4tTENicTdsOURCVUZ2aHNSQUUxM0h1czN3MUV4Q2JBMjdiSjRVOVE?oc=5",
+      "date": "Fri, 16 Oct 2026 03:13:41 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "児童らの個人情報流出か、委託業者に不正アクセス 北海道・釧路（毎日新聞） Yahoo!ニュース"
+    },
+    {
       "title": "NET119緊急通報システムへの不正アクセスに伴う個人情報漏えいの可能性について - 養老町公式ホームページ",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaVZOMW9sRlBfX0J3aklKc3JUbU5wV0JMeC1QTFN6V1VIUmkza2FrejBFVDdacW1GZm1oanFyY1RkMWFCZWUzQWlCekNneTVZZjZ0bXpxYjBqN1M1U3Jrd2FZQzhLZw?oc=5",
       "date": "Fri, 16 Oct 2026 03:00:04 GMT",
@@ -1771,13 +1785,6 @@
       "date": "Thu, 15 Oct 2026 12:26:00 GMT",
       "source": "読売新聞",
       "description": "不正アクセスを受けた情報サービス会社「アルカディア」、サービス復旧…情報漏えいの範囲は調査中 読売新聞"
-    },
-    {
-      "title": "11市町村で16万件の個人情報漏えいか サイバー攻撃 巧妙化する手口（2026年10月15日掲載）｜TeNY NEWS NNN - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTktGVjVYOUpMeXBHRnVKcG1jU3lUZkhiRlVXUWhiZmYwVFdDdWxKVnpfbTcwbDBScnppTmZPRFM5c0xfNTY1TEx2OGs1QjhzRjVENjVmalRFdmoxVFZRRmtVb0FhVGhnb19uTHRCb2tjeXhrQVktYk9BbkJGTkZDWUpES2lHZXIt?oc=5",
-      "date": "Thu, 15 Oct 2026 12:15:00 GMT",
-      "source": "日テレNEWS NNN",
-      "description": "11市町村で16万件の個人情報漏えいか サイバー攻撃 巧妙化する手口（2026年10月15日掲載）｜TeNY NEWS NNN 日テレNEWS NNN"
     },
     {
       "title": "公認心理師がUSBメモリ紛失、内部に発達検査結果報告書 - 常総市",
@@ -2317,13 +2324,6 @@
       "date": "2026-10-15T10:30:30+09:00",
       "source": "JPCERT/CC",
       "description": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "おかえりSOSまつさかへの不正アクセスによる情報漏洩の可能性について - 大台町",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYV3RPQmViYzhFLWZKY3pNVXUtVDZZOHB4SWZCLVJFMkVkSjh4NzVnajlOSWNFT0JlR3I4QjRUb1F0cGE0M1BMYjJSUlhyeFg0ZXZ4ajFBZGNnNmd0Zy0wWHlRVnFwT3g5cXpMTVV3YlVvYnlJUTB1a2JaZw?oc=5",
-      "date": "Thu, 15 Oct 2026 01:17:47 GMT",
-      "source": "大台町",
-      "description": "おかえりSOSまつさかへの不正アクセスによる情報漏洩の可能性について 大台町"
     },
     {
       "title": "おかえりSOSまつさかへの不正アクセスによる情報漏洩の可能性について - 大台町",
