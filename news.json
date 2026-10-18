@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T15:04:48.550556+00:00",
+  "updated_at": "2026-10-18T15:40:01.086581+00:00",
   "items": [
     {
       "title": "【特別企画】メッセージングセキュリティの最新動向がテーマ - JPAAWGが年次イベント",
@@ -7,13 +7,6 @@
       "date": "Sun, 18 Oct 2026 15:02:33 +0000",
       "source": "Security NEXT",
       "description": "2026年前半以降、予想を超えるAIの進化によってメールやメッセージングを取り巻くセキュリティ環境も目まぐるしく変化している。悪質化する攻撃に対し、グローバルではどのような対応が進められているのだろうか。"
-    },
-    {
-      "title": "JFA公式アプリ「JFA Passport」への不正アクセスについて｜JFA｜公益財団法人日本サッカー協会 - JFA",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XeEF6SEFlRDQxVnFRN25rTGhMbDc4UGpqYXN2YXVCYnNIR3dfMUE1TzNEc3lIOUwzMjNOenBqeDE1cjd1SkFqZw?oc=5",
-      "date": "Sun, 18 Oct 2026 13:58:22 GMT",
-      "source": "JFA",
-      "description": "JFA公式アプリ「JFA Passport」への不正アクセスについて｜JFA｜公益財団法人日本サッカー協会 JFA"
     },
     {
       "title": "JFA公式アプリに不正アクセス、一部機能を停止に - ゲキサカ",
@@ -28,6 +21,13 @@
       "date": "Sun, 18 Oct 2026 13:43:00 GMT",
       "source": "読売新聞",
       "description": "７０万人登録の日本サッカー協会公式アプリに不正アクセス、個人情報含む利用者情報への影響は調査中 読売新聞"
+    },
+    {
+      "title": "JFA公式アプリ「JFA Passport」への不正アクセスについて｜JFA｜公益財団法人日本サッカー協会 - JFA",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XeEF6SEFlRDQxVnFRN25rTGhMbDc4UGpqYXN2YXVCYnNIR3dfMUE1TzNEc3lIOUwzMjNOenBqeDE1cjd1SkFqZw?oc=5",
+      "date": "Sun, 18 Oct 2026 13:27:37 GMT",
+      "source": "JFA",
+      "description": "JFA公式アプリ「JFA Passport」への不正アクセスについて｜JFA｜公益財団法人日本サッカー協会 JFA"
     },
     {
       "title": "JFA、公式アプリへの不正アクセスを発表 個人情報への影響は「現在調査中」…一部機能が一時停止に（FOOTBALL ZONE） - Yahoo!ニュース",
@@ -74,7 +74,7 @@
     {
       "title": "足利市斎場予約システムに不正アクセス 利用者情報8800件など漏えい恐れ - 下野新聞社",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRUhfVUxYMGJfZGlSb2lxWlNPOEp3ZEJ3WndFRHhIenpYWFB0RzR1RnlWczE5TE9HUVFXVFM3MzJXWm5EWkFzS1V2a0dsZS0ySG9rRW83NlA4ek0?oc=5",
-      "date": "Sun, 18 Oct 2026 10:32:10 GMT",
+      "date": "Sun, 18 Oct 2026 10:30:00 GMT",
       "source": "下野新聞社",
       "description": "足利市斎場予約システムに不正アクセス 利用者情報8800件など漏えい恐れ 下野新聞社"
     },
@@ -429,13 +429,6 @@
       "description": "旅行予約「スカイチケット」、約6000人のクレカ情報流出 不正アクセス 日本経済新聞"
     },
     {
-      "title": "IT企業への不正アクセス 諫早市の道の駅 個人情報が漏えいか《長崎》（2026年10月16日掲載）｜NIB NEWS NNN - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hqZXZMNm41clNyc1gxbkFDdHp2dU9YOGdmSEJuYjNXZC1ObXVyOW50djlxYXc5VURvUTZPYmtOUXNhN0duY0ZNRHAwM0J5Yy05ekxqUXpxUmtEbUM4VGlKbUpJTm9VSU4teXhFQU5fNUlBWnZ1SXJkcUJFLTVYRGtTZWZqX1E?oc=5",
-      "date": "Sat, 17 Oct 2026 03:21:00 GMT",
-      "source": "日テレNEWS NNN",
-      "description": "IT企業への不正アクセス 諫早市の道の駅 個人情報が漏えいか《長崎》（2026年10月16日掲載）｜NIB NEWS NNN 日テレNEWS NNN"
-    },
-    {
       "title": "IT企業への不正アクセス 諫早市の道の駅 個人情報が漏えいか《長崎》（長崎国際テレビ） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BWnUyOXVUcjZlV2psejFubE1TcjVXV2pTd1BYc1VRcENYSXZkczlLSjNGUVd3OG1HX252b2ppY1lBOWwtVTBYaVg2clYwSWRhU0dmeWNtZ01WYlozLTQxYUR2dFU1emN3TnFhNkU5Nk1NU0stSlNyanhCc1ItUVk?oc=5",
       "date": "Sat, 17 Oct 2026 03:21:00 GMT",
@@ -728,13 +721,6 @@
       "date": "Fri, 16 Oct 2026 12:00:00 GMT",
       "source": "日本経済新聞",
       "description": "きょうの5本 サイバー攻撃、日本の電力網に1億の急所 日本経済新聞"
-    },
-    {
-      "title": "コミックシーモアが不正アクセス確認 会員情報が漏えい - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ablBTdGxzQ2lHWXR4SkFMc0JJRGlQd3plalUxTkRUV0VLMWpHYkd0WTBzbDgtem5MOTNPMjdaOGRzemwzNU9KRVprd01BWWJ5c3BPbVNUZk15MG80ZzBz?oc=5",
-      "date": "Fri, 16 Oct 2026 11:58:50 GMT",
-      "source": "NHKニュース",
-      "description": "コミックシーモアが不正アクセス確認 会員情報が漏えい NHKニュース"
     },
     {
       "title": "ECサイトシステム運営会社の情報漏えい 2335万件を確認 - NHKニュース",
