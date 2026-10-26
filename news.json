@@ -1,19 +1,89 @@
 {
-  "updated_at": "2026-10-26T03:47:59.962721+00:00",
+  "updated_at": "2026-10-26T04:47:21.460503+00:00",
   "items": [
+    {
+      "title": "【不正アクセスによる漏えい】省庁・各機関からの注意喚起、相談窓口まとめ - ECのミカタ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uVksyM2dPY2l1TFAtSkZCb0dLUXY2Y29TdVhzM3NHUEdXTlBLaGZOWUtLYThHZW1zWDJxLThEMXJQTEJDSUx4YlctdlJTcnU2NVJzWTh5SDA3cUFWb05xSDBpcWw?oc=5",
+      "date": "Mon, 26 Oct 2026 04:34:09 GMT",
+      "source": "ECのミカタ",
+      "description": "【不正アクセスによる漏えい】省庁・各機関からの注意喚起、相談窓口まとめ ECのミカタ"
+    },
+    {
+      "title": "政府、サイバーセキュリティーに関する閣僚会議を夕方に開催へ - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHI3ZWlEcXBqM0x1cnEyVTgxSTh0MXoyc0hfRG5hZVN4emMtUzROVFZVQU5GVVVhdUFNb19NcVRZbU02NWpIUlhrWldFWi1qbEJVYzkzdkthSFY1NjA1NFlXTlk0SjZxNlJvb05sZ2txTW11Skpndk83Z2t5bjVLbHdTUzNjU0E?oc=5",
+      "date": "Mon, 26 Oct 2026 04:30:00 GMT",
+      "source": "朝日新聞",
+      "description": "政府、サイバーセキュリティーに関する閣僚会議を夕方に開催へ 朝日新聞"
+    },
+    {
+      "title": "不正アクセスで登録された全メールアドレスが漏えい 一関市の情報配信サービス 岩手県（岩手めんこいテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91YlY2cmktZXRMMmYzU3lqQURwaXdfazF1bGRyYm1hZ3pVUGlGcmZMdUFuTnVGR0J0SENFXzFmamJ0QjFoMXR3SVctRFZwbnJpNEQ3eUp4QVd0R1EwWFNPSTlpNVU3c2tUQ3FtMGJObl8tdUFiZ2lKUXZ2VzVfT0U?oc=5",
+      "date": "Mon, 26 Oct 2026 04:28:02 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "不正アクセスで登録された全メールアドレスが漏えい 一関市の情報配信サービス 岩手県（岩手めんこいテレビ） Yahoo!ニュース"
+    },
+    {
+      "title": "★ランサムウェア対策、IT部門任せにしない経営判断を - 航空新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CSVdKbnlJYzl4MS1qQWhRLW83TzlId09rWEgtb1V5YU5Vb0NRV3JabWJ2VEdFTUxTV2hJeDBZaUdvSVBuZ3VWYw?oc=5",
+      "date": "Mon, 26 Oct 2026 04:26:47 GMT",
+      "source": "航空新聞社",
+      "description": "★ランサムウェア対策、IT部門任せにしない経営判断を 航空新聞社"
+    },
+    {
+      "title": "山里亮太 AI悪用サイバー攻撃で個人情報漏えい問題「専門知識ある人がすぐ実行に移せるようなところに」 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0c1UDFpeF9kMVBXbzhsaFN5YnNnaXJiWlhaWGlISXotOE8zVVNIaTVaSVBMRUdNdWZkMW1KeDJncHNLNTl4UlVEajkwX1ZiMDJEeE8wNVJSWGZNUzg3VGRWZll1Z3hmbUQyTWU4dG5FMmd6N21keHpvM2pWN2FzblFwWks2N3ZobzFad2JoeWxfdDV1TWJz0gGcAUFVX3lxTE5ZODRIQUl2MU5kbVVvTmNZWVh5LVVqc0k1R2ZXeGU1Y3BFODAwSjhZRS1wU3AwbllxWVdQbmthU2hPNXNIWWsyRF9jWFhkbHA1V09uS1kwLU5WU2EyUjFHQ1R3MEs4UEZHNjdjYlY4Sm5LZHFIYUZnTWI2ZzdFSTBWazhGZ2FYV2Zodm8tUHZNT2FOdUo2Q0VDRWVkUQ?oc=5",
+      "date": "Mon, 26 Oct 2026 04:21:00 GMT",
+      "source": "ｄメニューニュース",
+      "description": "山里亮太 AI悪用サイバー攻撃で個人情報漏えい問題「専門知識ある人がすぐ実行に移せるようなところに」 ｄメニューニュース"
+    },
+    {
+      "title": "熊谷GMO社長、不正アクセスで謝罪＝事前の指摘も防げず(時事通信) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjhMdnJ4QmxLWk5veXBmM09KaDZsbTVDMGxoRlo5TEV2M2M3cjdtWnB3dFFWN0xIQlUzR2UzYURwcmNLX1BsWmdWWVZlLVFTdHdncGxwbGlYTDhMNU9SdjVicjQ4Tk1yb0gxNHpkQlZYOVlFNERLMWhUR1Rjd1VCT3ZDTzRlQ00?oc=5",
+      "date": "Mon, 26 Oct 2026 04:12:54 GMT",
+      "source": "Yahoo!ファイナンス",
+      "description": "熊谷GMO社長、不正アクセスで謝罪＝事前の指摘も防げず(時事通信) Yahoo!ファイナンス"
+    },
+    {
+      "title": "韓国ロッテ系「GIFTIEL」に不正アクセス…氏名・電話番号・返金口座情報が流出 - AFPBB News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHBzcEU1ODlIQVV4UFRMM25ENXE0U053eVFCcnBfZVVMT0NKSUVFT2gxdF9QOTEzMkpBSnkwYUpxbXY2U09WVnZxVDc1MWhPWE54OHVyVFh2b3hPVjQycHRBUUxuOGZQV0VEeklCQ3ZRcGx6RURQNGlGZ3lPTVZxNNIBVEFVX3lxTFBnNGJ1ZVFmZV9uVXJSWGoyekEyV2Z4SmFmLTJWdEV3VnpaNXI4MEFySmV6VEEyOEVNWTI4NU1IRmh3VzVhRHBhZ3V6WWFxVFZKc1pmQw?oc=5",
+      "date": "Mon, 26 Oct 2026 04:04:37 GMT",
+      "source": "AFPBB News",
+      "description": "韓国ロッテ系「GIFTIEL」に不正アクセス…氏名・電話番号・返金口座情報が流出 AFPBB News"
+    },
+    {
+      "title": "韓国ロッテ系「GIFTIEL」に不正アクセス…氏名・電話番号・返金口座情報が流出（KOREA WAVE） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0NXUxNW5HbUlpSDRZZ3VpelBrY3dtQVp6cDgxdzBLTWNjdWthNzVQY01kTUIyTEUxYVRGTUtxQ3VVTE93MjQ2OGg0ek8wU0JuZGxiOU0zLTllMlVkN2FKejEtLTJHMFMxVU5KWnVKMGJSU3FZRVZrLVBYZDZEajg?oc=5",
+      "date": "Mon, 26 Oct 2026 04:03:15 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "韓国ロッテ系「GIFTIEL」に不正アクセス…氏名・電話番号・返金口座情報が流出（KOREA WAVE） Yahoo!ニュース"
+    },
+    {
+      "title": "JVN: 富士電機製V-SFTにおける複数の脆弱性（2026年10月）",
+      "link": "https://jvn.jp/vu/JVNVU96549652/",
+      "date": "2026-10-26T13:00:00+09:00",
+      "source": "JPCERT/CC",
+      "description": "富士電機株式会社が提供するV-SFTには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "政府、サイバー攻撃対策で今夜閣僚会議 高市首相が緊急対策の策定を指示へ - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNzYzWWJGSjlCYllSaG9JemZ3aGxLOHh1Q1YwR0hRZkZLQjVNTzh2bTFza3BSc3dXc0cxblJ0bUNrY2FRaHZpbHQtZ3RxSVZLb0M5U0pldXI0aVJweEhDTGp3YlkxclRfZ3c1RV90MzFvaGlS?oc=5",
+      "date": "Mon, 26 Oct 2026 03:55:00 GMT",
+      "source": "BigGo ファイナンス",
+      "description": "政府、サイバー攻撃対策で今夜閣僚会議 高市首相が緊急対策の策定を指示へ BigGo ファイナンス"
+    },
+    {
+      "title": "FX「一晩で180万円損失」 GMO利用者、不正アクセスで（共同通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRnN0NHk1dVBXWnJzbHMzQ2p2TVpRMGgtdF9hbVZHTXJIbTFDVnJtOHd1QmtUQ1NsSTZrbnF2MHY2RGZBSXYxbHNhRXNjNk5hdWN3VzlvWlQwY1RZYWFQa2Yzekp5RF9LOXc3Z2dmWjNXa0Fqc3VIdG5KOEVCTEE?oc=5",
+      "date": "Mon, 26 Oct 2026 03:44:01 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "FX「一晩で180万円損失」 GMO利用者、不正アクセスで（共同通信） Yahoo!ニュース"
+    },
     {
       "title": "セーファーインターネット協会、さくらのレンタルサーバ不正アクセスでホットライン通報内容など漏えいのおそれ - 合同会社ロケットボーイズ",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnl6VF92emtfYWs4QjYzUjhncm52VG5GRHNYZ3RpWDVrS296N052M2NTN1JoTFc4NWQ4c3ZLOUZoQnZzLXhWLWtFalZuRm9mY0hKZ3p6ZjMxY0FrVjI5dkxwWVRMV1B3UE1GcVB0SE9oUkNsZjNxWXBHWURrZDJJc3UxYldnTTU3d3BvNG8ySXhOMHBfX1NXT3IxVQ?oc=5",
       "date": "Mon, 26 Oct 2026 03:40:05 GMT",
       "source": "合同会社ロケットボーイズ",
       "description": "セーファーインターネット協会、さくらのレンタルサーバ不正アクセスでホットライン通報内容など漏えいのおそれ 合同会社ロケットボーイズ"
-    },
-    {
-      "title": "「攻撃者に隙つかれた」不正アクセスでGMO社長謝罪 社内で安全性を指摘されるも対応に遅れ 政府に「能動的サイバー防御」要請（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MSFNsZmJmbmg1aUJlQXlwS19odUt1cVV1VENyUW1rR3Y2ZlFVVjcwYzZuVy1CYmpDcFhEUjktclgtOURIZWVDRlIyZk5MdXZ0UDM0dXhmQWkwSkE0a0pJTGFTTV94QURETDFhSHpRSWJrbTE3TUV4aHhaSlFSWFE?oc=5",
-      "date": "Mon, 26 Oct 2026 03:39:21 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "「攻撃者に隙つかれた」不正アクセスでGMO社長謝罪 社内で安全性を指摘されるも対応に遅れ 政府に「能動的サイバー防御」要請（FNNプライムオンライン（フジテレビ系）） Yahoo!ニュース"
     },
     {
       "title": "【重要】メール配信サービス「ブラストメール」への不正アクセスに関するお知らせ - MMD研究所",
@@ -37,11 +107,11 @@
       "description": "GMOなどサイバー攻撃相次ぐ中…政府・サイバーセキュリティ関係閣僚会議を今夕開催へ au Webポータル"
     },
     {
-      "title": "GMOなどサイバー攻撃相次ぐ中…政府・サイバーセキュリティ関係閣僚会議を今夕開催へ（日テレNEWS NNN） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wSGROVkdwRUxqMnVPWGVYNThXTlR1TzRqQ0FST1dFRUpoQjZCd01tRm1Gdm9SUHhMVHJSenhkMklNZzJQZXZQdUdud2xHaXB3d1VFRU11NVhMVlp6WnR6RXpianBnRXF2TFBQMmJwVE45cGIyUW1WS05xMVNicEk?oc=5",
+      "title": "GMOなどサイバー攻撃相次ぐ中…政府・サイバーセキュリティ関係閣僚会議を今夕開催へ - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiOVJERDJnYlpoQXNlS1RXTjliNXBEOU1MbmF4cmF3Sll5OWhLeWc5VGhFX2xfRFZQbXJuNlN5NUlyRFFHS1RwU3pXT1E0RklmamF6UGtrdlhReWhzRnIyU3FRNEVMbjZ3enBqcXBRMTFHelByTUdqOU1WMEJXQQ?oc=5",
       "date": "Mon, 26 Oct 2026 03:26:00 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "GMOなどサイバー攻撃相次ぐ中…政府・サイバーセキュリティ関係閣僚会議を今夕開催へ（日テレNEWS NNN） Yahoo!ニュース"
+      "source": "日テレNEWS NNN",
+      "description": "GMOなどサイバー攻撃相次ぐ中…政府・サイバーセキュリティ関係閣僚会議を今夕開催へ 日テレNEWS NNN"
     },
     {
       "title": "見舞金3000円「足りない」 損害賠償求め集団提訴へ 「タイムズカー」情報流出 - au Webポータル",
@@ -58,11 +128,11 @@
       "description": "政府、サイバー攻撃対応で今夕に閣僚会議 首相が緊急対策の策定指示へ 日本経済新聞"
     },
     {
-      "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4eEFLYWtHUUhhV2JLUkxsZ1Vqd3NFWlBRa3ZsOURGdkUtb21POXFtaDhkMXlpZzJZbVlobk5STVBfYUREZ05WRzFFek0yLXpteFI4aGRWX1Bjel9pV3g2bjNkVjEwRDc5MURLaUhiUXk2eklldXc?oc=5",
-      "date": "Mon, 26 Oct 2026 03:13:01 GMT",
-      "source": "産経ニュース",
-      "description": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文 産経ニュース"
+      "title": "不正アクセス、今夕閣僚会議 高市首相が出席：時事ドットコム - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jNlNjZzZhTmh1a3BmMFJ6V2hmanN6Vm1LTlo1YjZ6bjBXWlo4c3d5azJGX2wyR0U5N3lzcXpiLUZHTlRhSktPdDhZS0MxNWx3amxlcXg3OTZzbnJ6OGdSMWtlNA?oc=5",
+      "date": "Mon, 26 Oct 2026 03:13:00 GMT",
+      "source": "時事ドットコム",
+      "description": "不正アクセス、今夕閣僚会議 高市首相が出席：時事ドットコム 時事ドットコム"
     },
     {
       "title": "高市総理、小泉防衛大臣、片山財務大臣ら出席へ…大規模サイバー攻撃相次ぎ官邸で関係閣僚会議 今後の対策協議 - Yahoo!ニュース",
@@ -72,11 +142,18 @@
       "description": "高市総理、小泉防衛大臣、片山財務大臣ら出席へ…大規模サイバー攻撃相次ぎ官邸で関係閣僚会議 今後の対策協議 Yahoo!ニュース"
     },
     {
-      "title": "「漏えい」の一言で素通り客が振り返る──相次ぐ情報流出の中で開幕のセキュリティ展示会 来場者の態度も激変 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Tem1sOTJzalMwVEZOR2Y4WHhiZzhsRXRabFYwUlpQR0l0cmRkcVdzMVlhV1FWS0h5MV9RMmVrTzZ0UGRDN2xacjBtLXVIUkp2dVZSd0VXaXI3QmNHQ1p5VFRPRXV2SUJxUVlNRWZ4QnE3azY3bUFn0gF8QVVfeXFMTkJvcGhfTHZuZ1R0aVJSYmgwanB1THUyUTBjTDY3NEZVQ0RMUm8wV2FEUk1mMGFRVTFvOHVJVjNsTU1VU3dWaGx3S2xZRWVGTHZUaDdPeGliRktHNktrWXRsazJOelR1eDZUcmw0T1EyeGNldnp3bGNxOGJKdg?oc=5",
-      "date": "Mon, 26 Oct 2026 03:09:25 GMT",
-      "source": "Infoseek",
-      "description": "「漏えい」の一言で素通り客が振り返る──相次ぐ情報流出の中で開幕のセキュリティ展示会 来場者の態度も激変 Infoseek"
+      "title": "「漏えい」の一言で素通り客が振り返る──相次ぐ情報流出の中で開幕のセキュリティ展示会 来場者の態度も激変 - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNE9sSFJfZ2loV0QzMnlUbkdDUnowdG1xY1YyUFpQZ1V5UGFvcVRSQ3hQMHdzZGdzZEVKRU5ZeXA4d2ZseVVZeUtBMmZkWVE2TDdtREstWEwxWDViMjRLUG1pd3FkaS1CZ3c?oc=5",
+      "date": "Mon, 26 Oct 2026 03:07:04 GMT",
+      "source": "ITmedia",
+      "description": "「漏えい」の一言で素通り客が振り返る──相次ぐ情報流出の中で開幕のセキュリティ展示会 来場者の態度も激変 ITmedia"
+    },
+    {
+      "title": "不正アクセス、今夕閣僚会議（時事通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1YzlvQ2pXeTZ2MFlieWVVc192NkJ6SDdrbGlfcUZBWmNKRXFzcUI5VGtqeGtXSGVnVDF5dEN3V051ZmFoaHB1VXhUTDRvX211Q2NObW90TWN3VzFEUzRtczZRRmpyd0FoX05QRHJPazZVRmZob2JNTkJJaE9sazQ?oc=5",
+      "date": "Mon, 26 Oct 2026 03:03:31 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "不正アクセス、今夕閣僚会議（時事通信） Yahoo!ニュース"
     },
     {
       "title": "「なんぼや」運営のバリュエンスジャパンに不正アクセス オンライン買取で最大1,165名の情報漏えいのおそれ、本人確認書類画像も対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -93,11 +170,18 @@
       "description": "Eストアー、2026年8月1日に発生した不正アクセスによる個人情報漏えいに関する最終報を発表 ECのミカタ"
     },
     {
+      "title": "JVN: 電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+      "link": "https://jvn.jp/jp/JVN75668103/",
+      "date": "2026-10-26T12:00:00+09:00",
+      "source": "JPCERT/CC",
+      "description": "国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。"
+    },
+    {
       "title": "政府 相次ぐ不正アクセス受け今夜関係閣僚会議開催へ - NHKニュース",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGUGhla3RTcXZuOWJ0aURMRWdjMThrU1NVOXktN2EzNnZKTUd3N1ZqLU9ZM0hYX0dIV0dubHp0YXZKdnBpUmJZdEs1eUt4OE5QelNLd0RsVU5nZFBoSnBJ?oc=5",
-      "date": "Mon, 26 Oct 2026 02:59:36 GMT",
+      "date": "Mon, 26 Oct 2026 02:59:00 GMT",
       "source": "NHKニュース",
-      "description": "政府 相次ぐ不正アクセス受け今夜関係閣僚会議開催へ NHKニュース 不正アクセス、今夕閣僚会議（時事通信） Yahoo!ニュース 政府、官邸主導で対策 不正アクセス、技術支援 - トピックス｜Infoseekニュース Infoseek"
+      "description": "政府 相次ぐ不正アクセス受け今夜関係閣僚会議開催へ NHKニュース"
     },
     {
       "title": "MSが定例外パッチ、「.NET」脆弱性を修正 - Brotli問題などに対応",
@@ -107,11 +191,11 @@
       "description": "マイクロソフトは、アプリケーション開発環境「.NET」における複数の脆弱性へ対処した定例外のセキュリティアップデートを公開した。あわせて10月の月例セキュリティ更新で修正が不十分だった脆弱性にも対応したという。"
     },
     {
-      "title": "フィギュア企業に不正アクセス、公式EC閉鎖 会員の住所や注文履歴など漏えいか 再開目処立たず - ITmedia",
+      "title": "グッスマに不正アクセス、公式EC閉鎖 会員の住所や注文履歴など漏えいか 再開目処立たず - ITmedia",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uamctT1RwTGRVQ1ZPV05wYkU5cmV0cWV0X0hqLTBFdkY5S0Z0ZDBpb2t5S1pnVDBTMlkzczhONXBHaUNvZzBPXzJ1M1FKUzFZWVpjNTBNOTdJZ3dmcVlweFJwNG1hdGUzOXc?oc=5",
       "date": "Mon, 26 Oct 2026 02:51:08 GMT",
       "source": "ITmedia",
-      "description": "フィギュア企業に不正アクセス、公式EC閉鎖 会員の住所や注文履歴など漏えいか 再開目処立たず ITmedia"
+      "description": "グッスマに不正アクセス、公式EC閉鎖 会員の住所や注文履歴など漏えいか 再開目処立たず ITmedia"
     },
     {
       "title": "GMOへの不正アクセス 熊谷社長 セキュリティーの課題 事前に認識（テレビ朝日系（ANN）） - Yahoo!ニュース",
@@ -142,11 +226,11 @@
       "description": "GMO社長「対応が十分でなかった」FX不正アクセスで利用者に被害 「課題、事前に指摘されていた」 Yahoo!ニュース"
     },
     {
-      "title": "セキュリティー技術者、求人倍率29倍… 情報漏洩の影に人材不足？ - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wRFNCMjlZeWNmN0ZsNEhGZ0FlUllkSktLbzVXbXltOHVST0k2XzRIVFZwNzJ3U2hGdkdwaUxGaV9keGcwRzJLeEYxQW83UTJ3OERDbDZaS2paSUx3cllNa3EybmpoNFk?oc=5",
-      "date": "Mon, 26 Oct 2026 02:41:04 GMT",
-      "source": "朝日新聞",
-      "description": "セキュリティー技術者、求人倍率29倍… 情報漏洩の影に人材不足？ 朝日新聞"
+      "title": "韓国・大韓航空の顧客予約番号が流出…提携先アマデウスへの不正アクセスで（KOREA WAVE） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sbnFZRGhjcTZKaTlXbGNybzhEY2lpMmJBbG5oVzFRQ1V3eGxxRUZKNC1kR0FfVTRQcTEtbmd4U01uTlNpSDg4TUVDTkdneXBvdXVOSzFCQmtYZjhvckpDRHZLUzhDdW84WWdDUTllenhxV0VZUldKZ3Q1Q2gzR3M?oc=5",
+      "date": "Mon, 26 Oct 2026 02:33:16 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "韓国・大韓航空の顧客予約番号が流出…提携先アマデウスへの不正アクセスで（KOREA WAVE） Yahoo!ニュース"
     },
     {
       "title": "GMO騒動まとめ｜FX自動売買サーバーで情報流出、不正取引の報告も - CRYPTO TIMES",
@@ -175,6 +259,13 @@
       "date": "Mon, 26 Oct 2026 02:12:00 GMT",
       "source": "47NEWS",
       "description": "GMO内で安全性課題事前に指摘 対応不十分、FXに不正アクセス 47NEWS"
+    },
+    {
+      "title": "不正アクセスで謝罪 事前の指摘も防げず―ＧＭＯ社長 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SemxqYjVRRjR6bFcyb3hkcUg0cFlkdGtpaGF3TDJjZlU5YzZIei1JcE02UEZZYWlUVnJHbGJ5cmstY2tqbXQxc0IyRll0RlpQSmVuT2llR2lOa01raVhJeGlEWQ?oc=5",
+      "date": "Mon, 26 Oct 2026 02:11:00 GMT",
+      "source": "時事ドットコム",
+      "description": "不正アクセスで謝罪 事前の指摘も防げず―ＧＭＯ社長 時事ドットコム"
     },
     {
       "title": "ランサムウェア被害の67％が「ID侵害」から発生。企業・組織が直面する認証管理の危機とは？ - ZDNET Japan",
@@ -212,11 +303,11 @@
       "description": "スタートアップイベント IVS2025、Studioへの不正アクセスでフォーム回答 約4,200件の個人情報漏洩の恐れ 合同会社ロケットボーイズ"
     },
     {
-      "title": "【西東京市】不正アクセスによる利用停止、情報漏洩への対応 - 選挙ドットコム",
+      "title": "【西東京市】不正アクセスによる利用停止、情報漏洩への対応 - 大林みつあき（オオバヤシミツアキ） - 選挙ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55V3BmN0ZnY0ZmZXJjVFNjZFdGZk5kOEFwajhYMG5QclVjVGZfcXZqeDV1ZU45Q3AzQWlDdG1tbUhrZF9fZ2ZvQi1HaFBNeEhQUk81WUVmcXVJa204Zkxv?oc=5",
       "date": "Mon, 26 Oct 2026 01:56:48 GMT",
       "source": "選挙ドットコム",
-      "description": "【西東京市】不正アクセスによる利用停止、情報漏洩への対応 選挙ドットコム"
+      "description": "【西東京市】不正アクセスによる利用停止、情報漏洩への対応 - 大林みつあき（オオバヤシミツアキ） 選挙ドットコム"
     },
     {
       "title": "日本狙い撃つサイバー攻撃に拍車…高市政権の制度改悪「個人情報ダダ漏れ」で被害者は泣き寝を見る - 千葉テレビ放送",
@@ -261,11 +352,11 @@
       "description": "ＧＭＯインターネットグループ株価一時11％安 不正アクセスで見舞金、能動的サイバー防御要請 日本経済新聞"
     },
     {
-      "title": "日本狙い撃つサイバー攻撃に拍車…高市政権の制度改悪「個人情報ダダ漏れ」で被害者は泣き寝を見る - 日刊ゲンダイDIGITAL",
+      "title": "日本狙い撃つサイバー攻撃に拍車…高市政権の制度改悪「個人情報ダダ漏れ」で被害者は泣きを見る - 日刊ゲンダイDIGITAL",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aSkZwVUU4QkU0VE9wdTlmTEdzb3VOcGhJOTVJN0JibVpVcTNGbnhWamRhRnU1YnJBU3dPU0ktZVZVMFNQZ0JWSFNpZXN2RGtfa0gwdU5ZVERfeDdUc2lBVjAzYURhZw?oc=5",
       "date": "Mon, 26 Oct 2026 01:40:00 GMT",
       "source": "日刊ゲンダイDIGITAL",
-      "description": "日本狙い撃つサイバー攻撃に拍車…高市政権の制度改悪「個人情報ダダ漏れ」で被害者は泣き寝を見る 日刊ゲンダイDIGITAL"
+      "description": "日本狙い撃つサイバー攻撃に拍車…高市政権の制度改悪「個人情報ダダ漏れ」で被害者は泣きを見る 日刊ゲンダイDIGITAL"
     },
     {
       "title": "GMOネットGが大幅安､FX事業への不正アクセス影響を懸念 - 四季報オンライン",
@@ -280,13 +371,6 @@
       "date": "Mon, 26 Oct 2026 01:35:33 GMT",
       "source": "Yahoo!ニュース",
       "description": "宮城・登米市 結婚支援事業登録者の個人情報漏えいか 委託会社に不正アクセス（河北新報） Yahoo!ニュース"
-    },
-    {
-      "title": "都メルマガ利用者情報1万6千件漏洩、委託先に不正アクセス 続く「ブラストメール」被害 - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVVVBWi1xSkVlRzA4bmVBLV9PbzdrN2wtaGwyaUhJeG02bzhURW54d3JqUWJrMkI4Tllnc1N3ZjV6TFNaRHhWemxDV2xhWWptM3BHOWtVTDF1Zkx2SFVUOXpqNUQzUmhGVF9XR1ZUNF9oOXpDUGc?oc=5",
-      "date": "Mon, 26 Oct 2026 01:35:13 GMT",
-      "source": "産経ニュース",
-      "description": "都メルマガ利用者情報1万6千件漏洩、委託先に不正アクセス 続く「ブラストメール」被害 産経ニュース"
     },
     {
       "title": "コメ兵グループ、EC注文者の個人情報が漏えい-WASABI SWITCHへの不正アクセスで。返金を装う不審メールも確認 - 合同会社ロケットボーイズ",
@@ -408,18 +492,18 @@
       "description": "通販各社で情報漏えい相次ぐ 5社と行政・業界団体を取材、対応状況に差 ウェルネスデイリーニュース"
     },
     {
-      "title": "モスカード、113万件の情報流出 委託先に不正アクセス - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rUThNenE3VzNMQS1XSTZldGZKZDdBanRBQlJFQldUODRnamZWZWNpNVpLUllVX1VGRWV3NGhscS1fTVBPcm5SelFIR0VMOHpXS2h1T3JsNm5ZRDdzQUhVVVJVZFRGRVNwWG1ES3pzOFkyRlNfR1h1SFQxWQ?oc=5",
-      "date": "Mon, 26 Oct 2026 00:42:12 GMT",
-      "source": "ニコニコニュース",
-      "description": "モスカード、113万件の情報流出 委託先に不正アクセス ニコニコニュース"
-    },
-    {
       "title": "パーク24－反落 通期純利益を下方修正 個人情報漏えいで55億円の特別損失〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWFYcXIyNm1EWXN2cmRTamN2elZvb1YxS00wZnNKTzJQZUhRdGR6VmhSQTQ4UUd3Tl9pZWpTVHhIOGpWY0o4bGVJTC01UWpMN2F1U3BVUXNuVDdWNXIwcFprMVZ4Mi1XOWdEYTB2VDEtbGxtejBtS2dEV2dtNUQ4S21HdG16dzg?oc=5",
       "date": "Mon, 26 Oct 2026 00:36:20 GMT",
       "source": "Yahoo!ファイナンス",
       "description": "パーク24－反落 通期純利益を下方修正 個人情報漏えいで55億円の特別損失〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス"
+    },
+    {
+      "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文 - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4eEFLYWtHUUhhV2JLUkxsZ1Vqd3NFWlBRa3ZsOURGdkUtb21POXFtaDhkMXlpZzJZbVlobk5STVBfYUREZ05WRzFFek0yLXpteFI4aGRWX1Bjel9pV3g2bjNkVjEwRDc5MURLaUhiUXk2eklldXc?oc=5",
+      "date": "Mon, 26 Oct 2026 00:29:10 GMT",
+      "source": "産経ニュース",
+      "description": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文 産経ニュース"
     },
     {
       "title": "メドレー「アットリンク」で患者の個人情報漏えいを確認 ログインID・パスワードや受診先、決済履歴も対象 - 合同会社ロケットボーイズ",
@@ -436,11 +520,25 @@
       "description": "GMO熊谷代表、不正アクセスで謝罪 事前に弱点指摘も防げず ASCII.jp"
     },
     {
+      "title": "モスカード、113万件の情報流出 委託先に不正アクセス（アスキー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tMnl0aGdtYVFSa2w3ZV9fN0h4dm9QQmp5WFdDcUZWSlMyYkk0Uk1rUzZpZ2UwOXFnbkdHMm4ydUJXZVBTejVINzgwRFlGX0ZYRDlLd25HZG0zN0o2aXdpX01faWVVU3BtcG5mME5kU1V0bzJkN0pONkdaNGUtb00?oc=5",
+      "date": "Mon, 26 Oct 2026 00:20:00 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "モスカード、113万件の情報流出 委託先に不正アクセス（アスキー） Yahoo!ニュース"
+    },
+    {
       "title": "「ニコアンド」「グローバルワーク」など展開のアンドエスティHDに不正アクセス 顧客情報約250万件流出の可能性（アスキー） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZVjRLNE9pd3p0X01pa1hyTXZNM2tVc1NQVGtqMUNFSjhyUG1ITGFuRzR3bzUxRVNnUGdOOGJHdWpxcFZmNmM1LW5RR3BEWk1TV2g4Nm5zSWlPUlhGZ0hhV20tWnJFNmk4Z09EaFJiU0gtY012NXFfOGxyQ1NWZDQ?oc=5",
       "date": "Mon, 26 Oct 2026 00:15:00 GMT",
       "source": "Yahoo!ニュース",
       "description": "「ニコアンド」「グローバルワーク」など展開のアンドエスティHDに不正アクセス 顧客情報約250万件流出の可能性（アスキー） Yahoo!ニュース"
+    },
+    {
+      "title": "中国ムーンショット、最新ＡＩモデルのサイバー攻撃能力を制限（ロイター） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mYkJqVlVmTENDcVU1TXc1cUY3OUNfQ0w3NEZBSVVGSHVvTHNDZ3AtQWpSbW9YckY4ZWYwb0ZmNGlzbWNzOUtZNFRzNGxJa2xpOHo2b1E5b3ptOFNuU0NCYWJWclNtU1pqQTExUWhEQlBEYjFDUDF5WktPQVktX2M?oc=5",
+      "date": "Mon, 26 Oct 2026 00:14:32 GMT",
+      "source": "Yahoo!ニュース",
+      "description": "中国ムーンショット、最新ＡＩモデルのサイバー攻撃能力を制限（ロイター） Yahoo!ニュース"
     },
     {
       "title": "中国ムーンショット、最新ＡＩモデルのサイバー攻撃能力を制限｜Infoseekニュース - Infoseek",
@@ -464,20 +562,6 @@
       "description": "中国ムーンショット、最新ＡＩモデルのサイバー攻撃能力を制限 Reuters"
     },
     {
-      "title": "中国ムーンショット、最新ＡＩモデルのサイバー攻撃能力を制限 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0REVG5vUWY2Qkg2dGpoejhpZHlYVzdVV2RWdTIwUDY4WjJmTUtaWERJMFRBOUIzal9ySmZRdFlZU2E2TkVPNVNEMTlqS3NPd29RUnNjNmxoWVZzTVZZUlZjbUVJMF8zMTU3WmdjQ3ZIRVdLdHM2TUJjVGt2THY3eFJR0gGHAUFVX3lxTFBmNHVSVGM5enFKTjRBRkgzelZjdXRUWHVKT01kSlJ1WWlZcVlQSFN4cXlqVHQzSzhfbU1zYXRvOExlb1dUcWN3S2pZa0M5cFBJQzdqTjJSUXdkU3hDNTNNSmY1SmlSN3NvRWpabG5aZE8yUURxWURMTUtmc0ZJVEtqMEtYNEVaYw?oc=5",
-      "date": "Mon, 26 Oct 2026 00:14:00 GMT",
-      "source": "ｄメニューニュース",
-      "description": "中国ムーンショット、最新ＡＩモデルのサイバー攻撃能力を制限 ｄメニューニュース"
-    },
-    {
-      "title": "グッドスマイルカンパニー、顧客情報流出の可能性 不正アクセスで（アスキー） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pT2MzaVVXVEMydEY1U0k2dE1ZVUpjU1U5dG83QlZpU1lOd1dlcC14OW41S1NCNVZqU3JuVWxVRXVCV0Y3RVF2ek5pT3NMSVJ2ZjZwenk3YVI1UGxzM1ZaOVVJWUo5YnBfekRobEFyM0gxLXprdHhOWHBKRlBmaXc?oc=5",
-      "date": "Mon, 26 Oct 2026 00:10:00 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "グッドスマイルカンパニー、顧客情報流出の可能性 不正アクセスで（アスキー） Yahoo!ニュース"
-    },
-    {
       "title": "グッドスマイルカンパニー、顧客情報流出の可能性 不正アクセスで - ASCII.jp",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hb0VSeUVob1hoTGo5eWpIZm16UHM3elB0RHBtWWYxTkNXcnJVeWdEeGpqbExRclBMOWRSdVUzdzZ6NEZtQ2c4X1RwbjVCelRuTE1WcQ?oc=5",
       "date": "Mon, 26 Oct 2026 00:10:00 GMT",
@@ -497,6 +581,13 @@
       "date": "Mon, 26 Oct 2026 00:00:01 GMT",
       "source": "PR TIMES",
       "description": "『OCI／Oracle環境のバックアップ、ランサムウェア被害時にも本当に復元できますか？』というテーマのウェビナーを開催 PR TIMES"
+    },
+    {
+      "title": "【更新中】「FXで勝手に取引が…」GMOが「能動的サイバー防御」適用を政府に要請 タイムズカーの「パーク24」約146万件の会員など対象に見舞金 - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+      "date": "Mon, 26 Oct 2026 00:00:00 GMT",
+      "source": "テレ朝NEWS",
+      "description": "【更新中】「FXで勝手に取引が…」GMOが「能動的サイバー防御」適用を政府に要請 タイムズカーの「パーク24」約146万件の会員など対象に見舞金 テレ朝NEWS"
     },
     {
       "title": "JVN: Siemens製品に対するアップデート（2026年10月）",
@@ -639,13 +730,6 @@
       "description": "観光ウェブサイト「飛騨高山旅ガイド」不正アクセス被害 一部情報漏えい 岐阜新聞デジタル"
     },
     {
-      "title": "【図解】サイバー攻防、新たな局面に＝AI利用、「軍拡競争」の様相―不正アクセス、影響拡大（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55TF9ITi14YlRzYUtjR29VaV9KaW03bXNDeHR1WWJlZDhlekpMUm5DQUtYbk90Z1FtWV8wdzRhaUNqeTRzM2JnZ2lrTjhJRjdTMXZQd3NZNlV2czl4SlVkd2R5TDdYTkszZlUtYW1iVGZZeXdBenZjLTNSUTY2V28?oc=5",
-      "date": "Sun, 25 Oct 2026 22:04:04 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "【図解】サイバー攻防、新たな局面に＝AI利用、「軍拡競争」の様相―不正アクセス、影響拡大（時事通信） Yahoo!ニュース"
-    },
-    {
       "title": "GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も - INTERNET Watch",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yLW8tcWNOd0N1VmEwSVJ6N2ZrUk1Od3d1ck8zZ1B6ZlJMdnpmRDJvVm45LWRwV0VHTUhpOTE4bm1QVllmdjFrT1cyRkc2TVpMajlwQmsxb044Sm50eHpzZzNId1pBR2FzcVZv?oc=5",
       "date": "Sun, 25 Oct 2026 22:00:00 GMT",
@@ -667,6 +751,13 @@
       "description": "Gyazoから6.9億件情報漏洩 削除済みデータも対象 日経クロステック"
     },
     {
+      "title": "古市憲寿氏 不正アクセスで個人情報流出…詐欺に狙われた「おかしいなと思って調べたら全部が偽サイトで」 - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tOUlfaG1WOG5rWENCVWdXTndxcFN2Q1JSV1JrWHpCanJabGo0VG5hblA3Mk1fTE1fQ0kyU3lLZC1DYmlTSm1WOUVuSzhuVERlMWpTM1k1ZDI0elZ4MVE?oc=5",
+      "date": "Sun, 25 Oct 2026 21:54:04 GMT",
+      "source": "ライブドアニュース",
+      "description": "古市憲寿氏 不正アクセスで個人情報流出…詐欺に狙われた「おかしいなと思って調べたら全部が偽サイトで」 ライブドアニュース"
+    },
+    {
       "title": "古市憲寿氏 不正アクセスで個人情報流出…詐欺に狙われた「おかしいなと思って調べたら全部が偽サイトで」 - スポニチ Sponichi Annex",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkFtclpkUTVLYjlkS3Q1NGIxWXZJbVU5QjRRRUhnbXVXZm0zRmxjUmdwSTFjQ2NNVnlMXzJ4UVZZVEZadmMyYVpGYmxHQ0pJZVRFa1V2UFBOV0FMUGtrUEV6cVd5TzRPLU1lNmp6a1p2QmJqZUszVkFPZXdJS3BaaTM3OW0tZmlNYXA3dVl5OW5vX01iaFE?oc=5",
       "date": "Sun, 25 Oct 2026 21:50:00 GMT",
@@ -683,7 +774,7 @@
     {
       "title": "ランサムウェア被害が最多。システム発注側に求められる個人情報を「持たない」判断 (久保田一 経営者) - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZ2pYaUFRV2tZZUNPdzlzNkVtS1A5dGtKTkJzaUpjVTh6T1d5QUpuU3NFdTg4dUhSWk96MFJQdE5xS01idjZiY0lqY01BSlpLVjZKV0E2Sk9RcEZGYVJGSmhGVXRVUnJvMXNOaEYtZlAxc0pkdkw2XzBsV3hHYjg?oc=5",
-      "date": "Sun, 25 Oct 2026 21:38:51 GMT",
+      "date": "Sun, 25 Oct 2026 21:30:57 GMT",
       "source": "Yahoo!ニュース",
       "description": "ランサムウェア被害が最多。システム発注側に求められる個人情報を「持たない」判断 (久保田一 経営者) Yahoo!ニュース"
     },
@@ -716,6 +807,13 @@
       "description": "GMOのFX不正取引、なぜ口座が勝手に動いたのか？自動売買を支えるVPSの見えない死角 JBpress"
     },
     {
+      "title": "不正アクセス受けたＧＭＯに高まる不信感 エンジニア界隈では真逆の評価だった - 東スポWEB",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZWVsclpIYWJxNENmdHhIelctYTZ4dXptZWZRa1E5SkJfVFRvUVFicWh5S3RUYm5SUHhtRFlqTjZmRlRjZEY1YU9vR280c2JfbFdSQmJVcS1uWEhH?oc=5",
+      "date": "Sun, 25 Oct 2026 21:00:00 GMT",
+      "source": "東スポWEB",
+      "description": "不正アクセス受けたＧＭＯに高まる不信感 エンジニア界隈では真逆の評価だった 東スポWEB"
+    },
+    {
       "title": "GMOへのサイバー攻撃、拡散される「脅迫」 「攻撃者の思うつぼ」（朝日新聞） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNzRVQ25lMlVCMVJpcDhPbTZGSlpwQzl1REhZSEpUclZPb1otVmZfdU1TcWxJTktzX0Y3eVVjaHhWQjJfZTlrTUtSa2I0djFadjB6SURreUZ0N2VGMTRrZXhIMHYwekltZmFYRkh6cDlMYlhPUHhGLUZ5WkVicjA?oc=5",
       "date": "Sun, 25 Oct 2026 21:00:00 GMT",
@@ -723,11 +821,11 @@
       "description": "GMOへのサイバー攻撃、拡散される「脅迫」 「攻撃者の思うつぼ」（朝日新聞） Yahoo!ニュース"
     },
     {
-      "title": "不正アクセス受けたＧＭＯに高まる不信感 エンジニア界隈では真逆の評価だった - 東スポWEB",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZWVsclpIYWJxNENmdHhIelctYTZ4dXptZWZRa1E5SkJfVFRvUVFicWh5S3RUYm5SUHhtRFlqTjZmRlRjZEY1YU9vR280c2JfbFdSQmJVcS1uWEhH?oc=5",
+      "title": "セキュリティー技術者、求人倍率29倍… 情報漏洩の影に人材不足？ - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wRFNCMjlZeWNmN0ZsNEhGZ0FlUllkSktLbzVXbXltOHVST0k2XzRIVFZwNzJ3U2hGdkdwaUxGaV9keGcwRzJLeEYxQW83UTJ3OERDbDZaS2paSUx3cllNa3EybmpoNFk?oc=5",
       "date": "Sun, 25 Oct 2026 21:00:00 GMT",
-      "source": "東スポWEB",
-      "description": "不正アクセス受けたＧＭＯに高まる不信感 エンジニア界隈では真逆の評価だった 東スポWEB"
+      "source": "朝日新聞",
+      "description": "セキュリティー技術者、求人倍率29倍… 情報漏洩の影に人材不足？ 朝日新聞"
     },
     {
       "title": "GMOへのサイバー攻撃、拡散される「脅迫」 「攻撃者の思うつぼ」 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
@@ -758,6 +856,13 @@
       "description": "バンク・オブ・アメリカは1000人のコンサルタントを雇った…暴走AIエージェントによるサイバー攻撃対策を強化 Business Insider Japan"
     },
     {
+      "title": "【注意喚起】不正アクセスによる情報漏えい等への対策について（町民・事業者向け） - 広川町",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlVkaUR0ODdGZzUwNnlMT2Fxb1JxQnloSElLT1lHVFJhV3lWNFNrVmdSV3Ffc2RJa0QzRnN0dkFsRkJjMnRKblI0TXdpbm9UZTdrcDZyWFN3dDNoeTQ3S2cwbGszeWo5WkVkX3Ayb3RLWkNVVHo2eGYzTWtxVlBxN1IwejhHZw?oc=5",
+      "date": "Sun, 25 Oct 2026 20:31:30 GMT",
+      "source": "広川町",
+      "description": "【注意喚起】不正アクセスによる情報漏えい等への対策について（町民・事業者向け） 広川町"
+    },
+    {
       "title": "中小企業向け、横浜でサイバー攻撃対処学ぶ 「倒産危機につながる」と警鐘 - カナロコ",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02cUt2TERTVGN3WS1LSmVHQ0dwajh3eU5hektTSUNGMUlRSjRsMXI4bkdTUmJDRzZuY0ZfY1UtbTVhaE9xaEFQQjFFalpmZTMzMlM1bVNGcnNDbDVQVzRmU0FjMzdNNmc?oc=5",
       "date": "Sun, 25 Oct 2026 20:30:00 GMT",
@@ -772,11 +877,11 @@
       "description": "不正アクセス、アプリやクラウドなど4つの経路 動画でクイック解説 日本経済新聞"
     },
     {
-      "title": "モスカード113万件の番号とPINが流出 モスフード、委託先への不正アクセスで発表 - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCMWw3QzM4ZHlzX1lhSVZuTVc1bFZnZ0hrUGRmaDB1M0xOWHYxcDU5cVJNUEF1WHdTUG5DMFJpcVBSQnVYSTVkRzY4dWNOdmNVNEdB?oc=5",
-      "date": "Sun, 25 Oct 2026 17:53:00 GMT",
-      "source": "ビジネス+IT",
-      "description": "モスカード113万件の番号とPINが流出 モスフード、委託先への不正アクセスで発表 ビジネス+IT"
+      "title": "「マスターキー」奪い侵入 GMO不正アクセス 専門家が分析 - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5OFlkajNzUTNtdmNVcHRDVU84ODRfTHZDZFJHNnlPWi1yM25mQXJMaEJCZWxEanhSTlNYaEdHeUtNeDg0VTA5WlhaSFE0eE03Nm1qWG1KVDhZSmdoQTFjb1dEN0FfdnpC?oc=5",
+      "date": "Sun, 25 Oct 2026 17:01:23 GMT",
+      "source": "毎日新聞",
+      "description": "「マスターキー」奪い侵入 GMO不正アクセス 専門家が分析 毎日新聞"
     },
     {
       "title": "サイバー攻撃で個人情報流出「国は関与拡大を」70% 世論調査 - 日本経済新聞",
@@ -804,14 +909,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Xa3NwT29LbUZDMU5PWU1faEM5cUIzMERzbF9MYWJYTXJBSEx1cGhZek5MWlZmWnZfa2ZhNXdTTWtvZFdLVUpVQ3hUUnpMeFgx?oc=5",
       "date": "Sun, 25 Oct 2026 14:05:35 GMT",
       "source": "Yahoo!ニュース",
-      "description": "不正アクセス GMO代表が謝罪 Yahoo!ニュース ＧＭＯ不正アクセス、「攻撃者」から金銭要求も…ネット上に「数十億円の損害与えた」との主張 読売新聞 不正アクセスで謝罪 事前の指摘も防げず―ＧＭＯ社長 時事ドットコム"
-    },
-    {
-      "title": "ＧＭＯ熊谷社長がブログで謝罪…社内技術者はセキュリティー課題指摘も「間隙つかれた」（読売新聞オンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISzlxYndIa1dxWjh4VzZyUXNSclBIcG9XbDdJQlltbWR4NERCMTR4NERRNkhmcVh2bXVZcnU0UmRPVVV5eEpFTm5qc0F0V1M0Y0Z2bmtsdXZsN1VBYzl4VzNkR0NDallIX3BZb1V6TTBuZU45azlGN25EaFBqTlE?oc=5",
-      "date": "Sun, 25 Oct 2026 14:04:10 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "ＧＭＯ熊谷社長がブログで謝罪…社内技術者はセキュリティー課題指摘も「間隙つかれた」（読売新聞オンライン） Yahoo!ニュース"
+      "description": "不正アクセス GMO代表が謝罪 Yahoo!ニュース GMO、「能動的サイバー防御」適用を政府に要請 不正アクセス問題 日本経済新聞 「攻撃者に隙つかれた」不正アクセスでGMO社長謝罪 社内で安全性を指摘されるも対応に遅れ 政府に「能動的サイバー防御」要請 FNNプライムオンライン"
     },
     {
       "title": "iPhoneのPDF黒塗りは情報漏洩対策になる？実機で検証 - iPhone Mania - iPhone Mania",
@@ -835,25 +933,11 @@
       "description": "不正アクセス 官邸主導で対策急ぐ Yahoo!ニュース"
     },
     {
-      "title": "日本ピザハット、決済APIへの不正アクセスで顧客情報が流出 セッションログイントークンも対象、最大約448万件の可能性 - 合同会社ロケットボーイズ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzFlV3YzUU05a1VyaExhWFdkZURhX0xRN1l4MWtJVk52SFNhcXA5QVN2SlkxdXcxMlZ3aTNqbjdsU01pMlRNYjlndWh0ZDhjb1BtSDY5NVJ4N2VrQ1dpc3p4QmNNa0JncmhDT0dEX0ZLR0Q2OVZGX21lMDN5bHAzLVduREU0YlVYZjhOVkFmZ0FDMFlrUHVyRndTSFNTYm4zcVRyU3M2b2VHQlhO?oc=5",
-      "date": "Sun, 25 Oct 2026 10:56:43 GMT",
-      "source": "合同会社ロケットボーイズ",
-      "description": "日本ピザハット、決済APIへの不正アクセスで顧客情報が流出 セッションログイントークンも対象、最大約448万件の可能性 合同会社ロケットボーイズ"
-    },
-    {
       "title": "国民・玉木氏、防御用AI開発訴え サイバー攻撃「戦争や大規模災害に匹敵する緊急事態」 - 産経ニュース",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWVBRbnE0VGliNE5NRjBwajZ2cEFtankzUGg5b05pdm5aTEd4ZE9pN0RrNVFOVWhia1l5b2RlVjgxM2lwUDVOMW4zVzhBaDUyS2hwRmFwb0Q4ekQ3NFp0UTEzUUs2WFhIYWpsWHgzXzNIdzM5X2c?oc=5",
       "date": "Sun, 25 Oct 2026 10:29:53 GMT",
       "source": "産経ニュース",
       "description": "国民・玉木氏、防御用AI開発訴え サイバー攻撃「戦争や大規模災害に匹敵する緊急事態」 産経ニュース"
-    },
-    {
-      "title": "FX「一晩で180万円損失」 GMO利用者、不正アクセスで（共同通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRnN0NHk1dVBXWnJzbHMzQ2p2TVpRMGgtdF9hbVZHTXJIbTFDVnJtOHd1QmtUQ1NsSTZrbnF2MHY2RGZBSXYxbHNhRXNjNk5hdWN3VzlvWlQwY1RZYWFQa2Yzekp5RF9LOXc3Z2dmWjNXa0Fqc3VIdG5KOEVCTEE?oc=5",
-      "date": "Sun, 25 Oct 2026 09:44:55 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "FX「一晩で180万円損失」 GMO利用者、不正アクセスで（共同通信） Yahoo!ニュース"
     },
     {
       "title": "政府、官邸主導で対策 不正アクセス、技術支援（共同通信） - Yahoo!ニュース",
@@ -875,6 +959,13 @@
       "date": "Sun, 25 Oct 2026 08:05:00 GMT",
       "source": "読売新聞",
       "description": "駐車券紛失者の個人情報流出か…「書類拾った」人物から電話「いくらで買い取るか」「拡散する」 読売新聞"
+    },
+    {
+      "title": "経済プラス：タイムズカー情報漏えい 被害防止対応で背負う新たな不利益とは - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hTU1XdkhXR1pRUGFYRGpTWU9RLS1xQjd5Q0lHdXJHOXMwdnV0eHhQdXZhZUMzbEVVaHRib19FUXpGMmhwc28yVjIxT0hwbjNuNmdkWWR3YzdIanEyUTBNVXRaZE8xNy1J?oc=5",
+      "date": "Sun, 25 Oct 2026 07:00:00 GMT",
+      "source": "毎日新聞",
+      "description": "経済プラス：タイムズカー情報漏えい 被害防止対応で背負う新たな不利益とは 毎日新聞"
     },
     {
       "title": "「2秒で416万円」残高ゼロに…GMO不正アクセスで口座破壊声明 被害受け政府に「能動的サイバー防御」を要請 PHPの脆弱性巡り世界で混乱も【サンデーモーニング】（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
@@ -919,18 +1010,18 @@
       "description": "GMOへの不正アクセスに見る防衛の限界…国家介入による「サイバー攻撃無害化」は企業を救うか 東京新聞"
     },
     {
+      "title": "佐川急便「お荷物問い合わせサービス」への不正アクセス、最大約5323万件の個人情報流出の可能性 - ネットショップ担当者フォーラム",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWSXZfX1RoeFhLSXNpM0Jaak5pMm00djNQb0hNd3VRbGhFMm1xNXQ5NEZ1MGxVODhWdDEtbHQwem5iX0F5a1RIQXBSN3JvTUVZNkd6ZW9tQWNnM2dl?oc=5",
+      "date": "Sat, 24 Oct 2026 23:46:51 GMT",
+      "source": "ネットショップ担当者フォーラム",
+      "description": "佐川急便「お荷物問い合わせサービス」への不正アクセス、最大約5323万件の個人情報流出の可能性 ネットショップ担当者フォーラム"
+    },
+    {
       "title": "AIで高度化するサイバー攻撃｜ベトナム海外拠点に必要なセキュリティ - https://access-online.net/",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QTmpfX1gzWjRXLWp0Y3VQNl9tMVBhaXFlWDVRX2dSbEVtTFFRVGVFeXR2OTlObTFFVjdUVVc5bXd1clRpcHBvcW5BdXgyb2lPWUNoX0VPVUNHeG1EZVBiT1FDZm1WZktheVdaelZhSjJMZw?oc=5",
       "date": "Sat, 24 Oct 2026 23:25:10 GMT",
       "source": "https://access-online.net/",
       "description": "AIで高度化するサイバー攻撃｜ベトナム海外拠点に必要なセキュリティ https://access-online.net/"
-    },
-    {
-      "title": "AI悪用のサイバー攻撃が急増→「全弾迎撃」は不可能に… 生活インフラを死守するために社会全体が順応すべき“新常識” - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmh6cFc4SDdCU3owOFRZZFVaT1NVcFB6SlJvYU15Y2d0ckVmc1A1ZHpmTldVd0x3dEt3OWlkSzdSWWloQ1lQX2c1czJqTEQ4ZVdKcG9mb0RjVDNFeURCQWxPVnVQT3hEdmJ2Z29GdnBlUkFUZEoyRDNwSXdrLWliZEZYSm1FaHBWN2FoOFFR?oc=5",
-      "date": "Sat, 24 Oct 2026 23:21:18 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "AI悪用のサイバー攻撃が急増→「全弾迎撃」は不可能に… 生活インフラを死守するために社会全体が順応すべき“新常識” Yahoo!ニュース"
     },
     {
       "title": "9月下旬からサイト・アプリへの不正アクセスが続出!! 個人情報\"大お漏らし時代\"にあなたの身に起こる怖いこと（週プレNEWS） - Yahoo!ニュース",
@@ -955,7 +1046,7 @@
     },
     {
       "title": "AI悪用のサイバー攻撃が急増→｢全弾迎撃｣は不可能に… 生活インフラを死守するために社会全体が順応すべき\"新常識\" - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUDZ5Zi1CbnlpV1R2WTc2MExoT3pxdjdkemxPcERwQnV3M2N6NXlGQjVUaDhsYXlfT0tQMktqdHZ1RXkycjVhbUVzUHB0cHppLVpway1nVFV0VzQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mbEVFMENZUHR5QWZBeElSdUV6alBxVEdpNEE0Q1pSQzFUN1QtNDVOTTN1SHJGSGdPMDRqNllKRjJpV3o4S1JuN3k0ZTM1M2pUbTBPT3FKeVZqeWs?oc=5",
       "date": "Sat, 24 Oct 2026 23:00:00 GMT",
       "source": "東洋経済オンライン",
       "description": "AI悪用のサイバー攻撃が急増→｢全弾迎撃｣は不可能に… 生活インフラを死守するために社会全体が順応すべき\"新常識\" 東洋経済オンライン"
@@ -1003,20 +1094,6 @@
       "description": "「うちは狙われない」は禁物 相次ぐサイバー攻撃、福岡の中小企業も基本対策徹底を QTnet・江川哲也氏に聞く 西日本新聞me"
     },
     {
-      "title": "不正アクセス受けたGMOが政府に「能動的サイバー防御」緊急要請 利用者に一律5000円の見舞金 不正取引が確認された場合は損失を補償する方針（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbXMtSVl5Y3VCRHpaTEhPMURQd01CbE41cF9pUUdLN2dvdHRuem9QcExTNjNJREVRdTNPbGVhbFZhOVRKNGhTMWJNcTBsOFZIR1RWQXJ3VDdFd0dOMGNnWGJrNnRXaVJPNjdUN2NNQjNaQV9MYTZVRkFxekxuZkE?oc=5",
-      "date": "Sat, 24 Oct 2026 20:33:31 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "不正アクセス受けたGMOが政府に「能動的サイバー防御」緊急要請 利用者に一律5000円の見舞金 不正取引が確認された場合は損失を補償する方針（TBS NEWS DIG Powered by JNN） Yahoo!ニュース"
-    },
-    {
-      "title": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KV3JydVpaVC1MZXN6YmpNS2w3cFA2RXJYNWhyUWtQYWdOa09XQVFxa3F0UjcxMU45MnN1MVRLYjRsZ0JuT0dGdDJzMXEzUzMtd21vcHhBdTJ0UUpzb1ZMQWRlTS05bmxpXzM3TnpheGZvR29XTWE5eDZ0NWtCNGc?oc=5",
-      "date": "Sat, 24 Oct 2026 20:00:42 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） Yahoo!ニュース"
-    },
-    {
       "title": "「人間業でないレベルの攻撃」が急増 不正アクセスで流出や停止 今後は？ - テレ朝NEWS",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZeUdXajAzYkEzZmtNaEcyU1lGZVNxdWExWEY4M0M5NEZyMnFLdXlCUDVzXzlrWjFFRDFFXzI1NS1NdUpCM1QzT045SHNVc2l4aXdjZFotRXUzZmtMYXYwblB1TDhJalVTTE1KVGJ2QTlDQQ?oc=5",
       "date": "Sat, 24 Oct 2026 16:07:00 GMT",
@@ -1036,6 +1113,13 @@
       "date": "Sat, 24 Oct 2026 14:08:07 GMT",
       "source": "いわき民報社",
       "description": "ふるさとチョイスの個人情報漏えい いわき市 市民と納税者に注意喚起 いわき民報社"
+    },
+    {
+      "title": "ＧＭＯ不正アクセス、「攻撃者」から金銭要求も…ネット上に「数十億円の損害与えた」との主張 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmSDA0blR4LUVYdHhaUjMyT2Z0b1NDX08ybUhxcmxzWE1BRVA0enJYazV3ZEVmUEY3a1RRcUZjWWhKVlpoRENZa0pYRTVYTEJjRTB4cHRHeTVtbnZnM2hEV0xMR0E?oc=5",
+      "date": "Sat, 24 Oct 2026 13:33:00 GMT",
+      "source": "読売新聞",
+      "description": "ＧＭＯ不正アクセス、「攻撃者」から金銭要求も…ネット上に「数十億円の損害与えた」との主張 読売新聞"
     },
     {
       "title": "GMO、不正取引の被害額を補償へ 見舞金5000円も 「お名前.com」FX用VPSへのサイバー攻撃で - ITmedia",
@@ -1087,13 +1171,6 @@
       "description": "FX自動取引、トレーダー「いったん止める」 GMO不正アクセスで動揺 日本経済新聞"
     },
     {
-      "title": "GMO、FX情報流出で全顧客に見舞金5000円 - SmartNews",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNeDJ1T19JOUVMV1k5Xy1IWk5aREhTVFN1YXZKMlFhU2pWbDBtQllleG4wMUZ0ZmFHeUFjNHZWZmNweDJvUC1pakRlVGNIbTM0VWxNUUphaWtrT05vRko0WDA1LXduR3lKSkhxYkxyRC1ZNlB3OVV0UmlHZzRpNnJVWlEtdlZFeFFGZS1ZRm5mSUVrQjVkWXJLMl9uMTdsWDlIYlI1ajlsYXRoMUxwb0IyT2dYRm10ZUxPcEx4Z1BxZVNMOFV0ZFQ2WkpUYUlqRkRqVzJDa0dqbTdFQ2ktSElQbllJZmg1MTRqbTZ0NDFUMGV4RTJ4SlRqZGllTHczQjNZTkl6MkRKcndTTjZlUlhNREUwOENXbnU5dm5aa3J4Yw?oc=5",
-      "date": "Sat, 24 Oct 2026 05:13:00 GMT",
-      "source": "SmartNews",
-      "description": "GMO、FX情報流出で全顧客に見舞金5000円 SmartNews"
-    },
-    {
       "title": "AIで加速するサイバー攻撃と、防御をめぐる動き ――脆弱性の修正から、AIエージェントの行動制御まで - gihyo.jp",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vU0ppZG9VWmczeUNoZF9hZENZb3JFaERqSC1hVF9qYUhOaUFYa3E1QmR6blZnd2VQNmpWXzl2VDFDYi1KeEhvT3hRaVVEdk05X2g3WWs0R3F1WkdkQXl3RUlB?oc=5",
       "date": "Sat, 24 Oct 2026 05:11:00 GMT",
@@ -1113,20 +1190,6 @@
       "date": "Sat, 24 Oct 2026 04:21:00 GMT",
       "source": "読売新聞",
       "description": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請 読売新聞"
-    },
-    {
-      "title": "GMO、「能動的サイバー防御」適用を政府に要請 不正アクセス問題 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WcXdFaGVNekpZY3RoQUhIT0JfVm1IYnJVa051QnViLTVGOFZsNVAxaTZnZTl4M3o5eG0xNHdxOEowS185RURmM1dqMk5HRTBYc2dRa18wSkZVN3ppM0t5WUV6dWItN0I0eE1jaA?oc=5",
-      "date": "Sat, 24 Oct 2026 04:03:45 GMT",
-      "source": "日本経済新聞",
-      "description": "GMO、「能動的サイバー防御」適用を政府に要請 不正アクセス問題 日本経済新聞"
-    },
-    {
-      "title": "【更新中】「FXで勝手に取引が…」GMOが「能動的サイバー防御」適用を政府に要請 タイムズカーの「パーク24」約146万件の会員など対象に見舞金 - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
-      "date": "Sat, 24 Oct 2026 04:00:00 GMT",
-      "source": "テレ朝NEWS",
-      "description": "【更新中】「FXで勝手に取引が…」GMOが「能動的サイバー防御」適用を政府に要請 タイムズカーの「パーク24」約146万件の会員など対象に見舞金 テレ朝NEWS"
     },
     {
       "title": "GMO、政府へ能動的サイバー防御「要請」 不正アクセスで情報流出 - 朝日新聞",
@@ -1162,13 +1225,6 @@
       "date": "Sat, 24 Oct 2026 02:25:00 GMT",
       "source": "読売新聞",
       "description": "岩井コスモ証券へのサイバー攻撃は「相場操縦が目的」…不正売買で価格つり上げ狙いか、会長「顧客情報に関心ないのでは」 読売新聞"
-    },
-    {
-      "title": "相次ぐ情報漏洩…サイバー攻撃は誰が何の目的でやっているのか？ セキュリティーの専門家に聞いた【注目の人 直撃インタビュー】 - SmartNews",
-      "link": "https://news.google.com/rss/articles/CBMitwZBVV95cUxOMjQwMjVYcUlvZnc4TS1UQUoya1Rub0JHQXZCdzJyYmtVT2NxN1ZybllzUWc0OF9QampabTl6YXRUM3lWbDNHNnE2cnlZQU9paW84Q1dlY0RxNUNHQlc0U0hqWEdtY2ZXa2I2d2ZzWEQ5Z3dmd09PaEVtekVjRDBjazM2Mno0VEtpR3RLLXJYT0F5aDNEWUdnYjN5b0RUOFJKRnpDX2ZJTkRBNUhacmprNG5HX2IyYWZ3NVllZGNyZENONUlSVFg5cjMzX0NBRlNydWJLc01SM2ZZRl9wTklTbjFUcTF1N2RVOGltM2JYckE0X2NpSkJqMjlUVlFmRlNBdXZFQmVSY1lzaUtJaV9FUXRpeEh2OUF1SHlaYmFrbUVDVnZoNVZ6TDdaMmRzYUxSYVFiVllFb2ZGczl0MkRUcVBxdy1zVlhPU2FNZG5pRTh4WGx3azBBVVBHVmNjMHU4MjQ3T3RzeW1uQi0tVWtOdHN2WEQzOGFsQTc2TS0zbnQtdmZBMXdSYjJ0SVFhNFRuUEYwbDVQNlZBajBWbEx6R1VZZ2VWRXhwZGJtaWVtU2RRUWYtMGRGTzhsczl5Wm5LdEJ1UE5uRkZ3WWk0WHNrcU1lYTQtUVo1S0RwMzEtUXhLVDhvNVE3YmNURVlKM3JVVEZIQm1FT1BkQ1ZvNkdDYV81a0ZWbTNEQjVIUVJyYzd1ZXA0ZXZYb1FWZ1hwWXZ3MU5faTAzbWNtNkpVa2dJdGFpZFprVmJXT0plQ0tReFZFRmo0ZU9DcTloSFRmd2psN2NNc0ptQ0tBb0twTGkxMEZxcFpQcDBRTFFrX0NGSk5wYThFMFFFSTFtN0YzQ21GblVhdjMyQ2JPRHJRRTNiaVVyV05NZkpvYWlpSkxIeFExMnFwem9zR25XdDBpcHI1MU80RURvM3VhMFV1MERxWkZWYTh5RzBOYW10a3lHX0NNWjVUNDdrWDlVZTJXM2d0M2Fxb0VKTzlOZm4tLVgwUnl2ZTFOWHNrUV9vRHpGUUxzbkRSU3B0RWdOS3FQZHpYTkN3ZEdHZ2lTZTNIcXFQZGZ5VnpPMUllNnNTazhfcmRFNThXLXJV?oc=5",
-      "date": "Sat, 24 Oct 2026 01:55:00 GMT",
-      "source": "SmartNews",
-      "description": "相次ぐ情報漏洩…サイバー攻撃は誰が何の目的でやっているのか？ セキュリティーの専門家に聞いた【注目の人 直撃インタビュー】 SmartNews"
     },
     {
       "title": "サイバー攻撃より国のマイナンバーや通信傍受法の個人情報流出を懸念する高校公民教科書 教科書はこう書いている - 産経ニュース",
@@ -1269,11 +1325,11 @@
       "description": "GMOインターネットが提供する仮想デスクトップサービス「お名前.com デスクトップクラウド」が第三者により侵害されたことがわかった。同サービスの利用者において、金融機関の取引口座に対する不正操作が報告されており、内部データを窃取されたおそれがある。"
     },
     {
-      "title": "岩井コスモ証券のシステムにサイバー攻撃、不正取引の規模は１２銘柄で１２５万株 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5S2xwM1ZYMTRqSEdPRTd0em93UXFKVndLcGhGSTh6UWFwbnJOSm8zTDhHTTZRaWduY2JLMWV1YjJEbm9PUkw1bkMwZEJmMWFva2pHeEtqd21nZDZHYkp4eUNHY3g?oc=5",
-      "date": "Fri, 23 Oct 2026 14:39:00 GMT",
-      "source": "読売新聞",
-      "description": "岩井コスモ証券のシステムにサイバー攻撃、不正取引の規模は１２銘柄で１２５万株 読売新聞"
+      "title": "ピザハットに不正アクセス、最大448万件の顧客情報流出か カード情報は無事 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHdTJPT0cyQ1psR29IcnYtaFpJLU1RSHgydzZoenplRnB3OVdlTm1DWlVtWlNIYkZaSVdtcjFaNThkMHZCVkU1a2FUYWtFd1Z5b1otVEJ0TGtFQ3FVZU16VnFoN054UkgzcHlMX21TTnR5MGRH?oc=5",
+      "date": "Fri, 23 Oct 2026 14:05:00 GMT",
+      "source": "BigGo ファイナンス",
+      "description": "ピザハットに不正アクセス、最大448万件の顧客情報流出か カード情報は無事 BigGo ファイナンス"
     },
     {
       "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出 「AIにはAIを」（1/2 ページ） - ITmedia",
@@ -1351,13 +1407,6 @@
       "date": "Fri, 23 Oct 2026 12:47:09 GMT",
       "source": "琉球新報デジタル",
       "description": "沖縄ツーリスト、最大73万人の顧客情報流出を発表 氏名や生年月日、免許証番号など 琉球新報デジタル"
-    },
-    {
-      "title": "「ふるさとチョイス」の個人情報流出を受け 青森県と40市町村すべてがサイトを通した納税停止（ＡＴＶ青森テレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9COE5sdFVWdEpuRDZVRk5DdkwySkh6a0dQQnAya2dfWGZQbWUySFdSLXR6TVI4U1NWdGFha0FWbVBrWE9id25BTWJmcnJkSGdqUVp6b3NYaUt1SXJRTGRrMkxWTTZxN190RGNlZ1lNbm1sSms4dFVJdXh6UTVxSlU?oc=5",
-      "date": "Fri, 23 Oct 2026 12:42:16 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "「ふるさとチョイス」の個人情報流出を受け 青森県と40市町村すべてがサイトを通した納税停止（ＡＴＶ青森テレビ） Yahoo!ニュース"
     },
     {
       "title": "個人情報漏えいおそれ…「ふれスポ」水泳教室などに応募した最大約3000人分の氏名やメアド 鹿児島市（MBC南日本放送） - Yahoo!ニュース",
@@ -1521,18 +1570,18 @@
       "description": "アンドエスティHD、情報流出か 氏名、住所など250万件（共同通信） Yahoo!ニュース"
     },
     {
-      "title": "PHP問題めぐり…鳥取県がサイバー攻撃対策会議（BSS山陰放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVTdkYThubHRVQ0FNRUtpRTA5ckhsckF1REs3a2E2UTB1UExyUklwX1hsZGxfX3J6dGRMeHhiZlRCaWhQbXdacmthU214SjNoV3R4QThCTG9OQV9SbUkzT0lqU3o3MWFvMUdfOWVsQ0pkZ1lfbWhYaHc1Rzc0YU0?oc=5",
-      "date": "Fri, 23 Oct 2026 10:15:32 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "PHP問題めぐり…鳥取県がサイバー攻撃対策会議（BSS山陰放送） Yahoo!ニュース"
-    },
-    {
       "title": "広報誌「ひろしま県民だより」のプレゼント応募者の個人情報漏えいか のべ１４７０人分の氏名や住所など（テレビ新広島） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdVFNUG5zMWVWZlJQZC0tRWhWaUY0bDl1dHQ5ZmZBTEpFSExQT2pjWGIzaGl0Z0U1ZXBXYnhuUF9MMnJBRnAyaE1GcE1hV2ZOeU5sWXJTbW5pSUpTTVhJc3Jmby15ZWRRd201LWk3cVZxN0Itc2Z2WDVSNlRwVkk?oc=5",
       "date": "Fri, 23 Oct 2026 10:15:01 GMT",
       "source": "Yahoo!ニュース",
       "description": "広報誌「ひろしま県民だより」のプレゼント応募者の個人情報漏えいか のべ１４７０人分の氏名や住所など（テレビ新広島） Yahoo!ニュース"
+    },
+    {
+      "title": "PHP問題めぐり…鳥取県がサイバー攻撃対策会議 | BSSニュース | BSS山陰放送 (1ページ) - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wMWYzWWg5eG8wZW40dlU3WXJOalJXeHVoN1J5bjJyWVpDVmZza3BPVTRnRWdRZlRRQUp3OE1CVEswbExwc2lvaUQ4VnE5QU55bHZfQ252NGVtZkFBM2lycW9LNm93OWM?oc=5",
+      "date": "Fri, 23 Oct 2026 10:15:00 GMT",
+      "source": "TBS NEWS DIG",
+      "description": "PHP問題めぐり…鳥取県がサイバー攻撃対策会議 | BSSニュース | BSS山陰放送 (1ページ) TBS NEWS DIG"
     },
     {
       "title": "京都中部広域消防、通報システム登録者の個人情報漏えいか - 京都新聞デジタル",
@@ -1542,18 +1591,18 @@
       "description": "京都中部広域消防、通報システム登録者の個人情報漏えいか 京都新聞デジタル"
     },
     {
+      "title": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BSDVWSlZ4UHl4czdrTUM4QTVHYVJpTm45aTlDMjRHdGR4d1ZzMUdPUGhVN3A0cTY0dENKcVhsa2pVdEdWWU83dWdfU1JwdnBLMkc5eWU1RDNfOU5uSXNF?oc=5",
+      "date": "Fri, 23 Oct 2026 10:11:05 GMT",
+      "source": "NHKニュース",
+      "description": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株 NHKニュース"
+    },
+    {
       "title": "情報流出頻発、政府体制整備へ 高市首相表明「差し迫った状況」 - 時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTaFNzeUJMUkFvVV8tNWFQSlpubGJjbnpPM2MzUkx2bEFMOWFHZm85Y2JKR21KX0xEaFdYTDVxeS1xcUhwS3FHMVpQdVFrMVRodHRLUnVNMUsyRkRSYUJGX0pLcw?oc=5",
       "date": "Fri, 23 Oct 2026 10:08:00 GMT",
       "source": "時事ドットコム",
       "description": "情報流出頻発、政府体制整備へ 高市首相表明「差し迫った状況」 時事ドットコム"
-    },
-    {
-      "title": "ジーイエット「マックハウス」メルマガの登録 個人情報漏えいの恐れ-ブラストメールへの不正アクセスで - 合同会社ロケットボーイズ",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWtUcWt3ZG5yVUhlbUFEVjJIYUtURnRRSC05SnU5WEYwSTR3MF95SFhuakJIUWV2NXVsalNRMUNURnZXREo4emdoTjU4VGpRMVc2OTlLb1lpcUhTdjF1QkhPVzNkTW5IRUk4NFQ5ZzBDdUxiekpzRkc1amxfU0JOX0QweXVMOXdzNVd3Y3VuMEtIZHZjSk1CR2tzZGQ?oc=5",
-      "date": "Fri, 23 Oct 2026 10:07:21 GMT",
-      "source": "合同会社ロケットボーイズ",
-      "description": "ジーイエット「マックハウス」メルマガの登録 個人情報漏えいの恐れ-ブラストメールへの不正アクセスで 合同会社ロケットボーイズ"
     },
     {
       "title": "情報漏洩のアプリ会社が会見 「総当たり攻撃、人間わざじゃない」 - 朝日新聞",
@@ -1666,20 +1715,6 @@
       "date": "Fri, 23 Oct 2026 08:44:53 GMT",
       "source": "Impress Watch",
       "description": "佐川急便、不正アクセスの個人情報流出は最大5323万件 Impress Watch"
-    },
-    {
-      "title": "佐川急便で個人情報漏えいか 最大5323万件 住所や氏名など（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbTJWTVNaTW1JZ1F1VmlWWWxQVW1abjhBT2hQaDBfaFNNRzYxaDVOU1pUVkh2RFNhRE5aQ2RZLWJlZlZpUjVRakZURGdmaFhGT3lVXzB5UUxVT1Bva01sb0ZzOFJWcWItam5ZYndoU3dhanluSWc0eE1Db1ptTmc?oc=5",
-      "date": "Fri, 23 Oct 2026 08:42:23 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "佐川急便で個人情報漏えいか 最大5323万件 住所や氏名など（FNNプライムオンライン（フジテレビ系）） Yahoo!ニュース"
-    },
-    {
-      "title": "製造業が盛んで“標的”にも…止まらぬサイバー攻撃と個人情報漏洩 セキュリティー会社が「愛知の企業」に対策呼びかけ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DLWpmbkpUQ3I3NzY1ZEhwdklVUVFua1hITFFTQ1FDZTc0b3VWTWtSaXQ0WThuSjlUeXJiX05vclAycDNhaDdGNlVrRERoUHVKT2FrMDliOVBfaUE0RGo0MEpXOTZId3VGQWd4QjhxbTBJTmNfYS14a3ZYMVcxVkE?oc=5",
-      "date": "Fri, 23 Oct 2026 08:40:57 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "製造業が盛んで“標的”にも…止まらぬサイバー攻撃と個人情報漏洩 セキュリティー会社が「愛知の企業」に対策呼びかけ Yahoo!ニュース"
     },
     {
       "title": "佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報 - ITmedia",
@@ -1878,13 +1913,6 @@
       "description": "野村証券、法人向けサービスで情報漏洩か 「委託先に不正アクセス」 日本経済新聞"
     },
     {
-      "title": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」 デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnaHE0WGJkQ2VJNHhRODRWN0dQU1ZqNnZ2b28zSWEtRWlCQmlaZ3lPemI5QjZ0emRiRUpoekRMV2RIWE8wcnZvMFpYcks2eThhVmg4clIwSzBnbi1BNFFuWnpqbzAwQk90YXFrZw?oc=5",
-      "date": "Fri, 23 Oct 2026 05:05:53 GMT",
-      "source": "ITmedia",
-      "description": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」 デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け ITmedia"
-    },
-    {
       "title": "不正アクセス被害アルカディア、社長「深くおわび」 補償方針は未定 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BMEl5eVFGemlqMjRKM1RpR3ViQWhDLTljUGphNVk2eU5zUXRjYml5bzk2c2FSanJRTTkxTEI2S25ablczYWpELXhqb1FnUkJaZ3g4VGVzUHloYTFxbWhVUi1IYWNhcHBOV09fVg?oc=5",
       "date": "Fri, 23 Oct 2026 04:44:43 GMT",
@@ -2004,13 +2032,6 @@
       "description": "JR四国、ツアーWeb会員 約3万件の個人情報漏えいの可能性 ブラストメールへの不正アクセスが波及 合同会社ロケットボーイズ"
     },
     {
-      "title": "Sally、2件の不正アクセスで個人情報漏えいの恐れ―「ウズ」544人、Studio経由で404人が対象 - 合同会社ロケットボーイズ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2R2NG4tNHR1UnU1SnY3ZUQ0aTF0Y2s4NFAxZzhCQWNHcnNQNkVSQzlrV2ZCLVRpN1BfbUNYYl9zTGJRdlFqN1hTSFNvNENXb2hZZldYZUx4ZE5MdU1LaDFWejdwVDlWV2JPOVNKSVZxSWxtMkhsd2lDMkhBZUllMU54YnFfd3Nvd0hfakpvSWFtNWQ0SU5oLWtMOTR1SjdacG5Ebnl6LWR6R1hI?oc=5",
-      "date": "Fri, 23 Oct 2026 02:00:49 GMT",
-      "source": "合同会社ロケットボーイズ",
-      "description": "Sally、2件の不正アクセスで個人情報漏えいの恐れ―「ウズ」544人、Studio経由で404人が対象 合同会社ロケットボーイズ"
-    },
-    {
       "title": "JVN: 三菱電機製の複数製品における複数の脆弱性（2026-006）",
       "link": "https://jvn.jp/vu/JVNVU93251594/",
       "date": "2026-10-23T11:00:15+09:00",
@@ -2018,25 +2039,11 @@
       "description": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。"
     },
     {
-      "title": "JVN: CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "link": "https://jvn.jp/vu/JVNVU98747108/",
-      "date": "2026-10-23T11:00:00+09:00",
-      "source": "JPCERT/CC",
-      "description": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
       "title": "デジタル庁で個人情報漏えいの可能性 - 47NEWS",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yV3doMXhUTFpPOFhRZ3IwRl9aaEJTUC1mZThtWDJORUpURWRoT0NKMnc1N3pvV19YY0NLcWc3NWkyTDF2bDdzcGdBNA?oc=5",
       "date": "Fri, 23 Oct 2026 01:55:00 GMT",
       "source": "47NEWS",
       "description": "デジタル庁で個人情報漏えいの可能性 47NEWS"
-    },
-    {
-      "title": "相次ぐ不正アクセス、薬局は「ベンダー任せ」で大丈夫？ - 日経メディカル",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5COWZyN2FXVFM0a0R6aUs0MDZ3OGQtUXpkOElOTFBScm1LYzgzcmlCQlcxRkZLQUNwUzF4cTVadG5mNDBqaGFMWGtXNWxQeGV5Um0xVi1NZ2xtMi00QVgyNnl3QUc2TXdFVm1tMFpnUVpURVBqZm1SbXZlRQ?oc=5",
-      "date": "Fri, 23 Oct 2026 01:45:02 GMT",
-      "source": "日経メディカル",
-      "description": "相次ぐ不正アクセス、薬局は「ベンダー任せ」で大丈夫？ 日経メディカル"
     },
     {
       "title": "デジタル庁で個人情報漏えいの可能性 - 新潟日報",
@@ -2058,20 +2065,6 @@
       "date": "Fri, 23 Oct 2026 01:26:06 GMT",
       "source": "47NEWS",
       "description": "【速報】デジタル庁で個人情報漏えいの可能性 47NEWS"
-    },
-    {
-      "title": "デジタル庁で個人情報漏えいの可能性 - 京都新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxdzJ1V2swbWxPNThEMl9ScVlKUmI1TnhkQmowUzJRSEE1QXJRZllIc0NuMF9KdWpvMjAxY01JYlE2Zm9oNHBodkRLdEVZXzdBQ2pKaEJKelk?oc=5",
-      "date": "Fri, 23 Oct 2026 01:26:06 GMT",
-      "source": "京都新聞デジタル",
-      "description": "デジタル庁で個人情報漏えいの可能性 京都新聞デジタル"
-    },
-    {
-      "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94WlFRTWZUZDNWdzJfWGJSQnE5NmNJOGJkM1BwMXh5ZVZwOXpZcE5kNm9BM2Q0S2dfem1JclljMHFraGNMUnRvOGFwUEp4YlBVVzFyX0YxTWhfc1lGTUp3TVk0b01oaExtS1E?oc=5",
-      "date": "Fri, 23 Oct 2026 00:24:14 GMT",
-      "source": "ITmedia",
-      "description": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ ITmedia"
     },
     {
       "title": "「Node.js」に脆弱性10件 - Brotli圧縮データの処理でRCEのおそれ",
@@ -2107,13 +2100,6 @@
       "date": "Thu, 22 Oct 2026 22:00:00 GMT",
       "source": "ネットショップ担当者フォーラム",
       "description": "急増するサイバー攻撃対策で「確認すべき3つの事項」「実施すべき5つの対策」「被害を受けた際のアクション」とは？ 警視庁が事業者に呼びかけ ネットショップ担当者フォーラム"
-    },
-    {
-      "title": "警視庁が個人情報漏えいに関する対策・啓発冊子を公開、都民向けと事業者向け (INTERNET Watch) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmhpSFRyRDJsTzNpWVdrM2NxSVpXQjU4anlRX3NYUnpuS0l4VG8tMjBXRWRVdFJfSEprTU9lZUswU0JJMmltQlVNdGEyeEhEeXNLYVJBM205SVBNMS1pSFFvZ0JZRFRJUGoyZGpsZ3djSmhZZ28yVzQ3VFltZDkyYXpMd2JmTkc4RmxDMkt3?oc=5",
-      "date": "Thu, 22 Oct 2026 21:21:42 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "警視庁が個人情報漏えいに関する対策・啓発冊子を公開、都民向けと事業者向け (INTERNET Watch) Yahoo!ニュース"
     },
     {
       "title": "警視庁が個人情報漏えいに関する対策・啓発冊子を公開、都民向けと事業者向け - INTERNET Watch",
@@ -2207,13 +2193,6 @@
       "description": "リクルートが運営する中古車情報サイト「カーセンサーnet」や、中古車販売店向け業務支援サービス「C-MATCH」がサイバー攻撃を受けたことがわかった。"
     },
     {
-      "title": "ラクス、子会社システムに不正アクセス 契約者情報が流出 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdnREX0pyQUlsWm9XTVpsSDk5elo0VTdfS2EyeXNtaC1BTTcxaC1Lem45MGFtMWNndzc1LXl6eXFTaFJFQzltejc4Uk9sWHdvSnFKeURwTVFZRWNMVWFTS2E1RmNWSVkzYVM2Zg?oc=5",
-      "date": "Thu, 22 Oct 2026 13:16:15 GMT",
-      "source": "日本経済新聞",
-      "description": "ラクス、子会社システムに不正アクセス 契約者情報が流出 日本経済新聞"
-    },
-    {
       "title": "新潟日報社、最大25万人の個人情報漏洩 システム会社に不正アクセス - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Edm9wTjhXRFhuMVNrQm54OUlBYVY5QlpzMDhJdWJWaERQZVhMZEVDZlVzT1lnNzNpSmRWSU91a080NFNxanRlWkFvVFNWdUxyX09MaEF2WU9oNUlXUzNIekZBdWg4WS1rRmVzZw?oc=5",
       "date": "Thu, 22 Oct 2026 13:10:22 GMT",
@@ -2247,6 +2226,13 @@
       "date": "Thu, 22 Oct 2026 10:33:28 GMT",
       "source": "十日町市",
       "description": "サイバー攻撃、不正アクセス等による影響 十日町市"
+    },
+    {
+      "title": "東北電力子会社、個人情報流出か メール配信企業への不正アクセスで - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UYTFOQ2FPb0tUSTFRRzNlcHBveGhiSW9ZWExIWVJJSlpQMGtDa1VKdGotUkgwWmgyeEFIaGc5cEQ5UDFWLV90djROSXdUNmR0SHM3a19hNTRmYUczbXQ5d3J0bFlIcEhzY3ZfZQ?oc=5",
+      "date": "Thu, 22 Oct 2026 10:20:00 GMT",
+      "source": "日本経済新聞",
+      "description": "東北電力子会社、個人情報流出か メール配信企業への不正アクセスで 日本経済新聞"
     },
     {
       "title": "新潟日報メール会員25万人の情報漏洩 システム会社に不正アクセス [新潟県] [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
@@ -2417,13 +2403,6 @@
       "description": "重要インフラ企業と緊急会議 警視庁、サイバー攻撃の対策を共有 日本経済新聞"
     },
     {
-      "title": "ノーコードWeb制作プラットフォーム「Studio」への不正アクセスに伴う情報流出の可能性に関するお知らせ - 株式会社SmartHR",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WOUJjTUY5X1Z5TzFJdThDNVZfOFd3blpkOFByU3FOODd2cjR6Q2hxME14ZE9DU21FVUxIRmR4cDdBSGdYV2JiVmJ4VHptT0ZTSnI4?oc=5",
-      "date": "Thu, 22 Oct 2026 05:09:11 GMT",
-      "source": "株式会社SmartHR",
-      "description": "ノーコードWeb制作プラットフォーム「Studio」への不正アクセスに伴う情報流出の可能性に関するお知らせ 株式会社SmartHR"
-    },
-    {
       "title": "「大変遺憾」──阪大で約7.8万人の個人情報漏えいか 委託先NECの“契約外運用”が招いた事態 - ITmedia",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tVkNTOVNoQno1STFNOTRWTFBlalZObHNiNWNMa2EtRHhnaTJYTjJ1MWhlc0EyMmYzX1hpMjdpUzh2cGJHLTFTVUFPaTVibkc4cWQ2QnBUTU42T0xVOU1BUW1Jc2RlbjQyV2p6S3pGSUJ0Zw?oc=5",
       "date": "Thu, 22 Oct 2026 05:07:00 GMT",
@@ -2501,13 +2480,6 @@
       "description": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有 ITmedia"
     },
     {
-      "title": "JVN: LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
-      "link": "https://jvn.jp/vu/JVNVU91023667/",
-      "date": "2026-10-22T10:00:00+09:00",
-      "source": "JPCERT/CC",
-      "description": "LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。"
-    },
-    {
       "title": "米当局、「PHP脆弱性」の即修正を勧告 - 困難ならオフラインに",
       "link": "https://www.security-next.com/191766",
       "date": "Thu, 22 Oct 2026 00:17:39 +0000",
@@ -2557,13 +2529,6 @@
       "description": "神奈川・福岡・鹿児島で県警職員の個人情報流出か 栃木では全職員分 朝日新聞"
     },
     {
-      "title": "青森県イベント申込者206件情報流出か（Web東奥） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWXh2T2dJREV3U29HdVJnb3dQcXZ6MHJ6ak44VnprVWJwY0g3OEs1TEJGVGxZN0FqaWdIbHZmczZST1NCSF94LW4zMDZjbGRoZGlRU20xWl8zWHFVWmxYLXBoTXBOLUxpN2JRcnhBT0t6ZGVrb3pYOWhiMndlbm8?oc=5",
-      "date": "Wed, 21 Oct 2026 12:03:00 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "青森県イベント申込者206件情報流出か（Web東奥） Yahoo!ニュース"
-    },
-    {
       "title": "DNPの電子書籍サイト「honto」、情報漏洩か 委託先に不正アクセス - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4MEtXb1UzSmlLZnpPMWZ6b3RodkZfODFWOG8xZC12b2dURktQYkNLdUNlcjVUcHl0N3VCa3JQSzBWbDAxQnhKYUlYc3V1WXFlUXpxaGNldnVKZm1wRG01SDQ3eC1iRHFQbktCSQ?oc=5",
       "date": "Wed, 21 Oct 2026 12:01:28 GMT",
@@ -2592,13 +2557,6 @@
       "description": "大阪大学で7万7,851人の個人情報漏えい、NEC委託業務のクラウドストレージから第三者が取得―未報告の協力会社も関与 合同会社ロケットボーイズ"
     },
     {
-      "title": "【警戒】「ふるさとチョイス」で個人情報流出 長崎市でも445万件超｜ニュース - KTNテレビ長崎",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZYWlLeEhieHhCNXhxLTdreUhRZUg2dTNCQ18xbHdka0RxNmRDc20tMHE1bU5xb2RDYWg1SXcwSU9sb0RJS0s2cEpCNWM0V1lrS1Vla3VWZzNKendUdEg3STVR?oc=5",
-      "date": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "source": "KTNテレビ長崎",
-      "description": "【警戒】「ふるさとチョイス」で個人情報流出 長崎市でも445万件超｜ニュース KTNテレビ長崎"
-    },
-    {
       "title": "青森県関連 新たに206件流出か ｢Studio｣不正アクセス つがる市・八戸市でも個人情報漏えい可能性 - ABA青森朝日放送",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40U3lpejBoS19aMkQ0RFRqbnJhbGpBTHlaUUd6bm5Dejd6U1Y4Sk1rLWJmTlRJWnNSZGhYUFBFZjNURl9vSXhvclhfdjVMMTMzVzEwMTE3OVE?oc=5",
       "date": "Wed, 21 Oct 2026 09:45:00 GMT",
@@ -2625,13 +2583,6 @@
       "date": "Wed, 21 Oct 2026 09:28:59 GMT",
       "source": "town.ashoro.hokkaido.jp",
       "description": "ふるさと納税ポータルサイト「ふるさとチョイス」の個人情報流出に係るお知らせについて town.ashoro.hokkaido.jp"
-    },
-    {
-      "title": "沖縄ツーリストでも個人情報漏えいの恐れ ホテルやレンタカーの予約サイト停止 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOXdIWkgxSEJvYWdhVVB4V2NQV3RhSUtCbFR4emZNRzZJZVlKYlB4UlhDdWhPVWFCemRMUGVTQVdGdTljQVBhaVRHRkdWbWNOQnRZT2M0OA?oc=5",
-      "date": "Wed, 21 Oct 2026 09:00:00 GMT",
-      "source": "TBS NEWS DIG",
-      "description": "沖縄ツーリストでも個人情報漏えいの恐れ ホテルやレンタカーの予約サイト停止 TBS NEWS DIG"
     },
     {
       "title": "委託事業者における個人情報漏えいについて - 大阪大学",
@@ -2872,13 +2823,6 @@
       "description": ""
     },
     {
-      "title": "岩井コスモ証券にサイバー攻撃 顧客の意図しない売買注文、成立も - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dXJlNFZhYlFqOUF5U2E3UExlalY0VUk2SUJMRG9WWFVWLVIzLUIxeHdHQ09oOXF5QS1zR0tudE5pNE0zRTctN29zcWJNY0NW?oc=5",
-      "date": "Tue, 20 Oct 2026 13:57:57 GMT",
-      "source": "Yahoo!ニュース",
-      "description": "岩井コスモ証券にサイバー攻撃 顧客の意図しない売買注文、成立も Yahoo!ニュース"
-    },
-    {
       "title": "不正アクセスに伴う個人情報流出の可能性について - ＫＴＳ鹿児島テレビ",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aUk90OEkyTTBiVldPbldMSXN3YzRVRDRXY3dSdXpJM1gwNGFLUUVKSVlSaU9WZjJ4empsTTVBMmMydHJyVzdzWTZiMmw4aDJhMEFveVY4Szl3Q2Nv?oc=5",
       "date": "Tue, 20 Oct 2026 12:52:16 GMT",
@@ -2898,13 +2842,6 @@
       "date": "Tue, 20 Oct 2026 11:25:00 GMT",
       "source": "TBS NEWS DIG",
       "description": "NEC 委託先へのサイバー攻撃で個人情報漏えい | TBS CROSS DIG with Bloomberg TBS NEWS DIG"
-    },
-    {
-      "title": "ふるさとチョイス、情報流出445万件 NECは委託先から漏洩 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81T0c2NnJQU1hqdkY1Z3g0OTRlQlg3OXFEenU5MUtiZzBHNjBOaWo2V0piNlJBOWt3Wi1SM0RKUlp6ZHBJUmpjWmZmRGZvZ0RWS3lMQXA1a0V2VmoycEdFZ3AwbU1ZaGM?oc=5",
-      "date": "Tue, 20 Oct 2026 11:18:00 GMT",
-      "source": "朝日新聞",
-      "description": "ふるさとチョイス、情報流出445万件 NECは委託先から漏洩 朝日新聞"
     },
     {
       "title": "ＮＥＣ委託先にサイバー攻撃、顧客企業３社の情報が漏えい…２社では個人情報漏えいを確認 - 読売新聞",
@@ -2947,6 +2884,13 @@
       "date": "Mon, 19 Oct 2026 19:52:11 GMT",
       "source": "湯沢町",
       "description": "湯沢町移住定住ポータルサイト及びYuzaWorkへの不正アクセスによる個人情報漏えいのおそれについて 湯沢町"
+    },
+    {
+      "title": "家電量販のJoshin、不正アクセスで一部サービス停止 個人情報漏えい「可能性否定できず」 - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TQWhscFZLZm1uV3Jfc1FyczJGWEJpb0VwVTRVM2kycWpRbkdkbkRHNWRWVDlQYl9FY1RqOG8ydm5HUkNBQ3FYdnlMbm9jS19vNU1WX3h2aHlQRzJNb2RNc1RYWUM3U0dGU0E?oc=5",
+      "date": "Mon, 19 Oct 2026 02:25:20 GMT",
+      "source": "ITmedia",
+      "description": "家電量販のJoshin、不正アクセスで一部サービス停止 個人情報漏えい「可能性否定できず」 ITmedia"
     },
     {
       "title": "不正アクセスによる個人情報漏えいの可能性について - 恵庭市",
@@ -3012,11 +2956,18 @@
       "description": "都内の税理士法人にサイバー攻撃か 2万件アクセス 海外7割 中小起点に大企業へ テレ朝NEWS"
     },
     {
-      "title": "Active Directoryが“人質”に ランサムウェアを使わない恐喝攻撃の手口とは：セキュリティニュースアラート - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmSy1STkMtMWQ0aTdTenBpSk05LW45QnEwMEdOTEFTQW40X1VwS3VnOHR4N2hhTElrQWY0V2IzWTRoQ1BuRHBlMlAtYmNyamtKeVA3cXhyRFRWYy1SNllfTUw3RUkxTjdwMFZfWEQ2enp1TGxH?oc=5",
+      "title": "わずか30分間で約9000件ブロック 世界中のサイバー攻撃を地図で“見える化” 相次ぐ個人情報の漏えいの背景と対策 福岡 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SDExNC1ETFBtck16b2NfQ0NnMmliUFZuYVFVUU9UQ1NYdXpDRmlnaVRwcTJScU1fQnJmTmlCOXR2bG9CdGg2dTVyUkJmOWZmMTFkNFR1TWYwSjI2WGlUU211ZjdCRmxVOWZLdFFULTgxRnhfd0tjdlYzZFJEUXM?oc=5",
       "date": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "source": "ITmedia",
-      "description": "Active Directoryが“人質”に ランサムウェアを使わない恐喝攻撃の手口とは：セキュリティニュースアラート ITmedia"
+      "source": "Yahoo!ニュース",
+      "description": "わずか30分間で約9000件ブロック 世界中のサイバー攻撃を地図で“見える化” 相次ぐ個人情報の漏えいの背景と対策 福岡 Yahoo!ニュース"
+    },
+    {
+      "title": "7800人分の個人情報漏えい恐れ、栃木県鹿沼市 - 下野新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pb1ZtNmM4Y0xVWFd4cXdTX05iRjhQYTB0a19wQUZmU2FFa09VOU1BSDZXcU9pRkt1ZHNjTGV6WWZGWk10Q0xVSTZ6WXpRX0YzamExS3RnS3hEVVU?oc=5",
+      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "source": "下野新聞社",
+      "description": "7800人分の個人情報漏えい恐れ、栃木県鹿沼市 下野新聞社"
     },
     {
       "title": "アルカディアに不正アクセス 神奈川県でも個人情報漏えい相次ぐ - 毎日新聞",
@@ -3075,6 +3026,13 @@
       "description": "サイバー攻撃で個人情報などの流出が判明した企業・団体の一覧 読売新聞"
     },
     {
+      "title": "サイバー攻撃なぜ日本が標的に…？ AIの進化で「日本語の壁」突破が容易に 日本の個人情報は“信頼性が高く、高値で売れる”【#みんなのギモン】（2026年10月9日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU2loajhYVnpkcWFqcFBWZWJsOU5ySzhKZUtkYWNhbmF6eDg1SG05bVlwZG84ZENtVm8yY2pfYldBcnNYOTRjWjJZdXNoLU9TMldLZzg0dEdpcFg1QmZ2QlJmNDJIZDFHYkRTOXZwNDl3cHc5WGhmVGlYN1A?oc=5",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "日テレNEWS NNN",
+      "description": "サイバー攻撃なぜ日本が標的に…？ AIの進化で「日本語の壁」突破が容易に 日本の個人情報は“信頼性が高く、高値で売れる”【#みんなのギモン】（2026年10月9日掲載）｜日テレNEWS NNN 日テレNEWS NNN"
+    },
+    {
       "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
       "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
       "date": "2026-10-09T00:00:00+09:00",
@@ -3108,6 +3066,13 @@
       "date": "2026-10-02T14:15+09:00",
       "source": "JPCERT/CC",
       "description": ""
+    },
+    {
+      "title": "10日間のうちに国内有名企業10社超で情報漏洩・障害・サイバー攻撃被害……まだまだ増える可能性 - EnterpriseZine",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMWJJa01JVzdWTkpEX0traTRqRXJjUVo3SkQwRy1OUUItSGY1Tm9vTFIyckluZndKZ1d4SGdXcWRHWTRJZkRQX2ttNmNCblVDTHViRlV3?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "source": "EnterpriseZine",
+      "description": "10日間のうちに国内有名企業10社超で情報漏洩・障害・サイバー攻撃被害……まだまだ増える可能性 EnterpriseZine"
     },
     {
       "title": "NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)",
